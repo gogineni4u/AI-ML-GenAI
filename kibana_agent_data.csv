@@ -1,0 +1,501 @@
+@timestamp,message,event.action,event.button_name,event.customer_id,event.api_endpoint,event.status,event.response_time
+2024-05-18 09:00:00+00:00,Agent agent18 viewed plan features for customer 10000.,api_call,,10000,/api/plans & perks/perks/redeem/20366,success,196
+2024-05-18 09:00:00+00:00,Agent agent12 updated security settings for customer 10001.,api_call,,10001,/api/account/close/88366,failed,437
+2024-05-18 09:00:00+00:00,Agent agent09 checked device compatibility for customer 10002.,api_call,,10002,/api/upgrades/upgrade/device/34220,failed,58
+2024-05-18 09:00:00+00:00,Agent agent14 activated international calling for customer 10003.,api_call,activated_international_calling,10003,/api/account/update/profile/95050,failed,274
+2024-05-18 09:00:00+00:00,Agent agent09 viewed troubleshooting guide for customer 10004.,api_call,,10004,/api/network/outage/status/82812,success,490
+2024-05-18 09:00:00+00:00,Agent agent14 compared plans for customer 10005.,api_call,,10005,/api/plans & perks/perks/redeem/66827,failed,105
+2024-05-18 09:00:00+00:00,Agent agent08 updated billing address for customer 10006.,api_call,updated_billing_address,10006,/api/billing/update/address/15155,failed,265
+2024-05-18 09:00:00+00:00,Agent agent08 rebooted device for customer 10007.,api_call,rebooted_device,10007,/api/device/replacement/request/70770,failed,372
+2024-05-18 09:00:00+00:00,Agent agent20 updated email address for customer 10008.,api_call,,10008,/api/account/update/notifications/19827,failed,305
+2024-05-18 09:00:00+00:00,Agent agent13 added roaming package for customer 10009.,api_call,added_roaming_package,10009,/api/billing/dispute/71738,failed,220
+2024-05-18 09:00:00+00:00,Agent agent04 checked upgrade eligibility for customer 10010.,api_call,,10010,/api/upgrades/upgrade/checkEligibility/54588,failed,52
+2024-05-18 09:00:00+00:00,Agent agent08 added account note for customer 10011.,api_call,,10011,/api/account/update/profile/10231,failed,94
+2024-05-18 09:00:00+00:00,Agent agent17 compared plans for customer 10012.,api_call,,10012,/api/plans & perks/plans/features/64777,failed,74
+2024-05-18 09:00:00+00:00,Agent agent02 viewed plan features for customer 10013.,api_call,,10013,/api/plans & perks/perks/redeem/67948,failed,116
+2024-05-18 09:00:00+00:00,Agent agent14 removed payment method for customer 10014.,api_call,removed_payment_method,10014,/api/billing/payment/28177,failed,480
+2024-05-18 09:00:00+00:00,Agent agent16 updated notification preferences for customer 10015.,api_call,,10015,/api/account/addnote/75409,failed,375
+2024-05-18 09:00:00+00:00,Agent agent16 filed device claim for customer 10016.,api_call,filed_device_claim,10016,/api/device/reboot/22333,failed,337
+2024-05-18 09:00:00+00:00,Agent agent02 updated profile for customer 10017.,api_call,,10017,/api/account/update/notifications/10659,failed,477
+2024-05-18 09:00:00+00:00,Agent agent20 updated security questions for customer 10018.,api_call,,10018,/api/account/updatesecurityquestions/61243,success,265
+2024-05-18 09:00:00+00:00,Agent agent01 rebooted device for customer 10019.,api_call,rebooted_device,10019,/api/device/reset/61827,failed,104
+2024-05-18 09:00:00+00:00,Agent agent05 updated profile for customer 10020.,api_call,,10020,/api/account/update/email/99818,failed,75
+2024-05-18 09:00:00+00:00,Agent agent14 updated language for customer 10021.,api_call,,10021,/api/account/addline/37798,failed,158
+2024-05-18 09:00:00+00:00,Agent agent16 reset password for customer 10022.,api_call,reset_password,10022,/api/account/close/27618,success,285
+2024-05-18 09:00:00+00:00,Agent agent12 updated billing address for customer 10023.,api_call,updated_billing_address,10023,/api/billing/downloadstatements/12514,failed,410
+2024-05-18 09:00:00+00:00,Agent agent10 upgraded device for customer 10024.,api_call,upgraded_device,10024,/api/upgrades/upgrade/device/39695,failed,226
+2024-05-18 09:00:00+00:00,Agent agent06 updated data limit for customer 10025.,api_call,,10025,/api/device/update/firmware/10766,failed,383
+2024-05-18 09:00:00+00:00,Agent agent10 rebooted device for customer 10026.,api_call,rebooted_device,10026,/api/device/fileclaim/57225,failed,461
+2024-05-18 09:00:00+00:00,Agent agent09 added account note for customer 10027.,api_call,,10027,/api/account/update/email/92397,success,232
+2024-05-18 09:00:00+00:00,Agent agent07 scheduled autopay for customer 10028.,api_call,scheduled_autopay,10028,/api/billing/scheduleautopay/34275,failed,369
+2024-05-18 09:00:00+00:00,Agent agent18 upgraded device for customer 10029.,api_call,upgraded_device,10029,/api/device/replacement/request/43500,failed,320
+2024-05-18 09:00:00+00:00,Agent agent16 closed account for customer 10030.,api_call,,10030,/api/account/update/language/73419,failed,439
+2024-05-18 09:00:00+00:00,Agent agent05 requested device replacement for customer 10031.,api_call,requested_device_replacement,10031,/api/device/reboot/89664,failed,338
+2024-05-18 09:00:00+00:00,Agent agent12 filed device claim for customer 10032.,api_call,filed_device_claim,10032,/api/device/fileclaim/55115,success,177
+2024-05-18 09:00:00+00:00,Agent agent09 compared plans for customer 10033.,api_call,,10033,/api/plans & perks/plans/compare/11115,failed,210
+2024-05-18 09:00:00+00:00,Agent agent04 processed payment for customer 10034.,api_call,processed_payment,10034,/api/billing/remove/paymentmethod/78755,failed,333
+2024-05-18 09:00:00+00:00,Agent agent14 closed account for customer 10035.,api_call,,10035,/api/account/password/reset/76982,failed,268
+2024-05-18 09:00:00+00:00,Agent agent03 optimized network settings for customer 10036.,api_call,optimized_network_settings,10036,/api/network/speedtest/51020,success,71
+2024-05-18 09:00:00+00:00,Agent agent16 fetched invoice for customer 10037.,api_call,,10037,/api/billing/downloadstatements/76036,success,122
+2024-05-18 09:00:00+00:00,Agent agent03 added roaming package for customer 10038.,api_call,added_roaming_package,10038,/api/billing/add/paymentmethod/61584,failed,482
+2024-05-18 09:00:00+00:00,Agent agent18 checked outage status for customer 10039.,api_call,,10039,/api/network/issueresolved/90419,failed,99
+2024-05-18 09:00:00+00:00,Agent agent09 added new line for customer 10040.,api_call,,10040,/api/account/update/language/14089,failed,340
+2024-05-18 09:00:00+00:00,Agent agent09 compared plans for customer 10041.,api_call,,10041,/api/plans & perks/plans/features/74742,success,180
+2024-05-18 09:00:00+00:00,Agent agent09 updated billing address for customer 10042.,api_call,updated_billing_address,10042,/api/billing/invoices/74495,failed,411
+2024-05-18 09:00:00+00:00,Agent agent15 compared plans for customer 10043.,api_call,,10043,/api/plans & perks/plans/features/90218,failed,76
+2024-05-18 09:00:00+00:00,Agent agent15 activated international calling for customer 10044.,api_call,activated_international_calling,10044,/api/account/update/notifications/49613,failed,146
+2024-05-18 09:00:00+00:00,Agent agent18 activated device for customer 10045.,api_call,activated_device,10045,/api/upgrades/upgrade/device/65375,failed,162
+2024-05-18 09:00:00+00:00,Agent agent14 configured device for customer 10046.,api_call,,10046,/api/device/update/firmware/58013,success,464
+2024-05-18 09:00:00+00:00,Agent agent18 initiated upgrade for customer 10047.,api_call,initiated_upgrade,10047,/api/upgrades/upgrade/checkEligibility/72822,failed,452
+2024-05-18 09:00:00+00:00,Agent agent15 checked upgrade eligibility for customer 10048.,api_call,,10048,/api/upgrades/upgrade/checkEligibility/69327,failed,256
+2024-05-18 09:00:00+00:00,Agent agent18 completed upgrade for customer 10049.,api_call,completed_upgrade,10049,/api/upgrades/upgrade/checkEligibility/39368,failed,123
+2024-05-18 09:00:00+00:00,Agent agent06 troubleshot signal for customer 10050.,api_call,,10050,/api/network/outage/report/23317,failed,298
+2024-05-18 09:00:00+00:00,Agent agent11 viewed troubleshooting guide for customer 10051.,api_call,,10051,/api/network/update/wifi-password/27705,success,432
+2024-05-18 09:00:00+00:00,Agent agent18 initiated upgrade for customer 10052.,api_call,initiated_upgrade,10052,/api/upgrades/upgrade/checkEligibility/75931,failed,132
+2024-05-18 09:00:00+00:00,Agent agent17 checked upgrade eligibility for customer 10053.,api_call,,10053,/api/upgrades/upgrade/checkEligibility/64811,failed,493
+2024-05-18 09:00:00+00:00,Agent agent04 compared plans for customer 10054.,api_call,,10054,/api/plans & perks/plans/features/73406,failed,123
+2024-05-18 09:00:00+00:00,Agent agent13 requested device replacement for customer 10055.,api_call,requested_device_replacement,10055,/api/device/configure/46781,failed,391
+2024-05-18 09:00:00+00:00,Agent agent20 configured device for customer 10056.,api_call,,10056,/api/device/update/datalimit/89282,success,410
+2024-05-18 09:00:00+00:00,Agent agent19 requested device replacement for customer 10057.,api_call,requested_device_replacement,10057,/api/upgrades/upgrade/device/39236,failed,186
+2024-05-18 09:00:00+00:00,Agent agent10 filed device claim for customer 10058.,api_call,filed_device_claim,10058,/api/upgrades/upgrade/device/86383,failed,304
+2024-05-18 09:00:00+00:00,Agent agent12 processed payment for customer 10059.,api_call,processed_payment,10059,/api/billing/update/address/14266,failed,124
+2024-05-18 09:00:00+00:00,Agent agent12 viewed plan features for customer 10060.,api_call,,10060,/api/plans & perks/plans/features/72161,success,274
+2024-05-18 09:00:00+00:00,Agent agent16 requested device replacement for customer 10061.,api_call,requested_device_replacement,10061,/api/device/upgrade/90653,failed,314
+2024-05-18 09:00:00+00:00,Agent agent08 reset device for customer 10062.,api_call,reset_device,10062,/api/device/configure/41821,failed,261
+2024-05-18 09:00:00+00:00,Agent agent14 viewed plan features for customer 10063.,api_call,,10063,/api/plans & perks/perks/redeem/29767,failed,164
+2024-05-18 09:00:00+00:00,Agent agent14 initiated dispute for customer 10064.,api_call,initiated_dispute,10064,/api/billing/add/paymentmethod/79244,failed,193
+2024-05-18 09:00:00+00:00,Agent agent04 requested device replacement for customer 10065.,api_call,requested_device_replacement,10065,/api/device/update/firmware/12131,failed,232
+2024-05-18 09:00:00+00:00,Agent agent09 added payment method for customer 10066.,api_call,added_payment_method,10066,/api/billing/scheduleautopay/32826,failed,317
+2024-05-18 09:00:00+00:00,Agent agent15 ran speed test for customer 10067.,api_call,ran_speed_test,10067,/api/network/updateqos/52819,failed,344
+2024-05-18 09:00:00+00:00,Agent agent02 checked device compatibility for customer 10068.,api_call,,10068,/api/device/configure/96819,failed,242
+2024-05-18 09:00:00+00:00,Agent agent19 resolved network issue for customer 10069.,api_call,resolved_network_issue,10069,/api/network/update/wifi-password/97925,failed,418
+2024-05-18 09:00:00+00:00,Agent agent04 viewed troubleshooting guide for customer 10070.,api_call,,10070,/api/network/optimize/29473,failed,104
+2024-05-18 09:00:00+00:00,Agent agent06 checked outage status for customer 10071.,api_call,,10071,/api/network/updateqos/76021,failed,271
+2024-05-18 09:00:00+00:00,Agent agent07 completed upgrade for customer 10072.,api_call,completed_upgrade,10072,/api/upgrades/upgrade/checkEligibility/55971,failed,70
+2024-05-18 09:00:00+00:00,Agent agent11 viewed plan features for customer 10073.,api_call,,10073,/api/plans & perks/perks/redeem/10044,failed,286
+2024-05-18 09:00:00+00:00,Agent agent18 viewed troubleshooting guide for customer 10074.,api_call,,10074,/api/network/updateqos/26334,failed,117
+2024-05-18 09:00:00+00:00,Agent agent11 processed payment for customer 10075.,api_call,processed_payment,10075,/api/billing/update/address/71077,failed,81
+2024-05-18 09:00:00+00:00,Agent agent16 closed account for customer 10076.,api_call,,10076,/api/account/addline/70477,failed,93
+2024-05-18 09:00:00+00:00,Agent agent06 compared plans for customer 10077.,api_call,,10077,/api/plans & perks/perks/redeem/46389,success,170
+2024-05-18 09:00:00+00:00,Agent agent01 reported outage for customer 10078.,api_call,reported_outage,10078,/api/network/troubleshoot/signal/70478,failed,464
+2024-05-18 09:00:00+00:00,Agent agent20 completed upgrade for customer 10079.,api_call,completed_upgrade,10079,/api/upgrades/upgrade/plan/29888,success,422
+2024-05-18 09:00:00+00:00,Agent agent16 viewed plan features for customer 10080.,api_call,,10080,/api/plans & perks/plans/features/65756,failed,344
+2024-05-18 09:00:00+00:00,Agent agent11 scheduled autopay for customer 10081.,api_call,scheduled_autopay,10081,/api/billing/add/paymentmethod/44698,failed,312
+2024-05-18 09:00:00+00:00,Agent agent14 compared plans for customer 10082.,api_call,,10082,/api/plans & perks/plans/compare/56049,failed,105
+2024-05-18 09:00:00+00:00,Agent agent12 checked outage status for customer 10083.,api_call,,10083,/api/network/troubleshoot/signal/36316,failed,279
+2024-05-18 09:00:00+00:00,Agent agent09 updated data limit for customer 10084.,api_call,,10084,/api/device/reboot/93650,failed,400
+2024-05-18 09:00:00+00:00,Agent agent07 reset device for customer 10085.,api_call,reset_device,10085,/api/device/checkcompatibility/81252,failed,148
+2024-05-18 09:00:00+00:00,Agent agent08 updated Wi-Fi password for customer 10086.,api_call,updated_Wi-Fi_password,10086,/api/network/diagnostics/12087,failed,199
+2024-05-18 09:00:00+00:00,Agent agent04 checked upgrade eligibility for customer 10087.,api_call,,10087,/api/upgrades/upgrade/plan/79458,failed,74
+2024-05-18 09:00:00+00:00,Agent agent06 rebooted device for customer 10088.,api_call,rebooted_device,10088,/api/device/configure/19448,failed,156
+2024-05-18 09:00:00+00:00,Agent agent09 compared plans for customer 10089.,api_call,,10089,/api/plans & perks/plans/compare/67366,failed,424
+2024-05-18 09:00:00+00:00,Agent agent13 troubleshot signal for customer 10090.,api_call,,10090,/api/network/outage/status/12103,success,465
+2024-05-18 09:00:00+00:00,Agent agent17 initiated upgrade for customer 10091.,api_call,initiated_upgrade,10091,/api/upgrades/upgrade/checkEligibility/44180,success,358
+2024-05-18 09:00:00+00:00,Agent agent09 compared plans for customer 10092.,api_call,,10092,/api/plans & perks/plans/features/36128,failed,113
+2024-05-18 09:00:00+00:00,Agent agent17 compared plans for customer 10093.,api_call,,10093,/api/plans & perks/plans/compare/87310,success,125
+2024-05-18 09:00:00+00:00,Agent agent06 compared plans for customer 10094.,api_call,,10094,/api/plans & perks/plans/features/79133,success,335
+2024-05-18 09:00:00+00:00,Agent agent11 closed account for customer 10095.,api_call,,10095,/api/account/reset/password/27618,failed,425
+2024-05-18 09:00:00+00:00,Agent agent01 viewed plan features for customer 10096.,api_call,,10096,/api/plans & perks/plans/features/81796,failed,383
+2024-05-18 09:00:00+00:00,Agent agent02 completed upgrade for customer 10097.,api_call,completed_upgrade,10097,/api/upgrades/upgrade/checkEligibility/25468,failed,141
+2024-05-18 09:00:00+00:00,Agent agent18 requested device replacement for customer 10098.,api_call,requested_device_replacement,10098,/api/upgrades/upgrade/device/52062,failed,104
+2024-05-18 09:00:00+00:00,Agent agent15 updated data limit for customer 10099.,api_call,,10099,/api/device/reboot/16010,success,428
+2024-05-18 09:00:00+00:00,Agent agent11 checked network status for customer 10100.,api_call,,10100,/api/network/issueresolved/42832,failed,486
+2024-05-18 09:00:00+00:00,Agent agent03 rebooted device for customer 10101.,api_call,rebooted_device,10101,/api/device/activate/59958,failed,307
+2024-05-18 09:00:00+00:00,Agent agent14 compared plans for customer 10102.,api_call,,10102,/api/plans & perks/plans/features/87864,failed,127
+2024-05-18 09:00:00+00:00,Agent agent08 ran speed test for customer 10103.,api_call,ran_speed_test,10103,/api/network/optimize/22489,failed,191
+2024-05-18 09:00:00+00:00,Agent agent20 updated data limit for customer 10104.,api_call,,10104,/api/upgrades/upgrade/device/78851,failed,360
+2024-05-18 09:00:00+00:00,Agent agent20 compared plans for customer 10105.,api_call,,10105,/api/plans & perks/perks/redeem/30959,success,287
+2024-05-18 09:00:00+00:00,Agent agent02 initiated upgrade for customer 10106.,api_call,initiated_upgrade,10106,/api/upgrades/upgrade/checkEligibility/91071,failed,328
+2024-05-18 09:00:00+00:00,Agent agent08 updated language for customer 10107.,api_call,,10107,/api/account/update/language/18623,success,146
+2024-05-18 09:00:00+00:00,Agent agent01 activated international calling for customer 10108.,api_call,activated_international_calling,10108,/api/account/update/profile/27758,failed,149
+2024-05-18 09:00:00+00:00,Agent agent02 compared plans for customer 10109.,api_call,,10109,/api/plans & perks/perks/redeem/28820,success,217
+2024-05-18 09:00:00+00:00,Agent agent17 upgraded device for customer 10110.,api_call,upgraded_device,10110,/api/upgrades/upgrade/device/35054,failed,198
+2024-05-18 09:00:00+00:00,Agent agent05 rebooted device for customer 10111.,api_call,rebooted_device,10111,/api/device/update/firmware/27842,failed,332
+2024-05-18 09:00:00+00:00,Agent agent11 activated device for customer 10112.,api_call,activated_device,10112,/api/device/reset/73536,failed,382
+2024-05-18 09:00:00+00:00,Agent agent14 activated device for customer 10113.,api_call,activated_device,10113,/api/upgrades/upgrade/device/73098,success,275
+2024-05-18 09:00:00+00:00,Agent agent06 requested device replacement for customer 10114.,api_call,requested_device_replacement,10114,/api/device/reset/29674,failed,334
+2024-05-18 09:00:00+00:00,Agent agent19 updated notification preferences for customer 10115.,api_call,,10115,/api/account/addnote/62785,failed,228
+2024-05-18 09:00:00+00:00,Agent agent06 initiated upgrade for customer 10116.,api_call,initiated_upgrade,10116,/api/upgrades/upgrade/plan/90631,success,56
+2024-05-18 09:00:00+00:00,Agent agent17 viewed plan features for customer 10117.,api_call,,10117,/api/plans & perks/plans/features/74700,failed,468
+2024-05-18 09:00:00+00:00,Agent agent13 requested device replacement for customer 10118.,api_call,requested_device_replacement,10118,/api/upgrades/upgrade/device/82653,failed,422
+2024-05-18 09:00:00+00:00,Agent agent13 compared plans for customer 10119.,api_call,,10119,/api/plans & perks/plans/compare/43272,failed,258
+2024-05-18 09:00:00+00:00,Agent agent10 checked upgrade eligibility for customer 10120.,api_call,,10120,/api/upgrades/upgrade/plan/15943,failed,485
+2024-05-18 09:00:00+00:00,Agent agent11 updated notification preferences for customer 10121.,api_call,,10121,/api/account/update/notifications/11981,success,271
+2024-05-18 09:00:00+00:00,Agent agent01 downloaded payment history for customer 10122.,api_call,downloaded_payment_history,10122,/api/billing/add/roamingpackage/79147,failed,66
+2024-05-18 09:00:00+00:00,Agent agent15 updated Wi-Fi password for customer 10123.,api_call,updated_Wi-Fi_password,10123,/api/network/troubleshooting/50298,failed,490
+2024-05-18 09:00:00+00:00,Agent agent11 updated billing address for customer 10124.,api_call,updated_billing_address,10124,/api/billing/refund/78431,success,485
+2024-05-18 09:00:00+00:00,Agent agent10 updated notification preferences for customer 10125.,api_call,,10125,/api/account/update/profile/65328,failed,377
+2024-05-18 09:00:00+00:00,Agent agent20 updated data limit for customer 10126.,api_call,,10126,/api/device/reset/29819,failed,300
+2024-05-18 09:00:00+00:00,Agent agent20 viewed plan features for customer 10127.,api_call,,10127,/api/plans & perks/perks/redeem/68509,failed,497
+2024-05-18 09:00:00+00:00,Agent agent18 checked network status for customer 10128.,api_call,,10128,/api/network/optimize/28844,failed,298
+2024-05-18 09:00:00+00:00,Agent agent13 compared plans for customer 10129.,api_call,,10129,/api/plans & perks/perks/redeem/77281,success,356
+2024-05-18 09:00:00+00:00,Agent agent11 filed device claim for customer 10130.,api_call,filed_device_claim,10130,/api/device/update/firmware/58830,failed,321
+2024-05-18 09:00:00+00:00,Agent agent11 initiated upgrade for customer 10131.,api_call,initiated_upgrade,10131,/api/upgrades/upgrade/plan/32392,failed,223
+2024-05-18 09:00:00+00:00,Agent agent03 compared plans for customer 10132.,api_call,,10132,/api/plans & perks/perks/redeem/43078,success,430
+2024-05-18 09:00:00+00:00,Agent agent08 checked outage status for customer 10133.,api_call,,10133,/api/network/diagnostics/61271,failed,180
+2024-05-18 09:00:00+00:00,Agent agent08 reset device for customer 10134.,api_call,reset_device,10134,/api/upgrades/upgrade/device/67456,failed,438
+2024-05-18 09:00:00+00:00,Agent agent02 optimized network settings for customer 10135.,api_call,optimized_network_settings,10135,/api/network/outage/status/79537,failed,119
+2024-05-18 09:00:00+00:00,Agent agent16 optimized network settings for customer 10136.,api_call,optimized_network_settings,10136,/api/network/speedtest/57429,failed,339
+2024-05-18 09:00:00+00:00,Agent agent01 fetched invoice for customer 10137.,api_call,,10137,/api/billing/update/address/74412,failed,375
+2024-05-18 09:00:00+00:00,Agent agent16 updated Wi-Fi password for customer 10138.,api_call,updated_Wi-Fi_password,10138,/api/network/status/35733,failed,337
+2024-05-18 09:00:00+00:00,Agent agent18 filed device claim for customer 10139.,api_call,filed_device_claim,10139,/api/device/update/datalimit/82804,failed,302
+2024-05-18 09:00:00+00:00,Agent agent18 viewed plan features for customer 10140.,api_call,,10140,/api/plans & perks/plans/compare/84134,failed,489
+2024-05-18 09:00:00+00:00,Agent agent02 activated international calling for customer 10141.,api_call,activated_international_calling,10141,/api/account/activate/internationalcalling/45671,failed,486
+2024-05-18 09:00:00+00:00,Agent agent12 updated notification preferences for customer 10142.,api_call,,10142,/api/account/addline/36349,failed,356
+2024-05-18 09:00:00+00:00,Agent agent12 downloaded payment history for customer 10143.,api_call,downloaded_payment_history,10143,/api/billing/remove/paymentmethod/51459,failed,53
+2024-05-18 09:00:00+00:00,Agent agent13 compared plans for customer 10144.,api_call,,10144,/api/plans & perks/perks/redeem/11758,failed,81
+2024-05-18 09:00:00+00:00,Agent agent06 completed upgrade for customer 10145.,api_call,completed_upgrade,10145,/api/upgrades/upgrade/checkEligibility/88760,failed,194
+2024-05-18 09:00:00+00:00,Agent agent16 added roaming package for customer 10146.,api_call,added_roaming_package,10146,/api/billing/add/paymentmethod/79292,failed,69
+2024-05-18 09:00:00+00:00,Agent agent10 filed device claim for customer 10147.,api_call,filed_device_claim,10147,/api/device/reset/24346,failed,287
+2024-05-18 09:00:00+00:00,Agent agent16 activated device for customer 10148.,api_call,activated_device,10148,/api/device/configure/92752,failed,291
+2024-05-18 09:00:00+00:00,Agent agent08 ran speed test for customer 10149.,api_call,ran_speed_test,10149,/api/network/status/11709,failed,421
+2024-05-18 09:00:00+00:00,Agent agent19 updated billing address for customer 10150.,api_call,updated_billing_address,10150,/api/billing/add/roamingpackage/55553,failed,264
+2024-05-18 09:00:00+00:00,Agent agent04 compared plans for customer 10151.,api_call,,10151,/api/plans & perks/plans/features/88900,failed,469
+2024-05-18 09:00:00+00:00,Agent agent13 downloaded payment history for customer 10152.,api_call,downloaded_payment_history,10152,/api/billing/scheduleautopay/94426,success,121
+2024-05-18 09:00:00+00:00,Agent agent03 reset password for customer 10153.,api_call,reset_password,10153,/api/account/addline/53536,failed,382
+2024-05-18 09:00:00+00:00,Agent agent15 fetched invoice for customer 10154.,api_call,,10154,/api/billing/add/paymentmethod/40449,failed,470
+2024-05-18 09:00:00+00:00,Agent agent02 downloaded payment history for customer 10155.,api_call,downloaded_payment_history,10155,/api/billing/invoices/40784,failed,201
+2024-05-18 09:00:00+00:00,Agent agent12 added roaming package for customer 10156.,api_call,added_roaming_package,10156,/api/billing/payment/history/download/26832,failed,54
+2024-05-18 09:00:00+00:00,Agent agent20 viewed troubleshooting guide for customer 10157.,api_call,,10157,/api/network/updateqos/41604,failed,74
+2024-05-18 09:00:00+00:00,Agent agent15 updated language for customer 10158.,api_call,,10158,/api/account/updatesecurityquestions/78386,failed,383
+2024-05-18 09:00:00+00:00,Agent agent09 added account note for customer 10159.,api_call,,10159,/api/account/addnote/72474,failed,108
+2024-05-18 09:00:00+00:00,Agent agent18 viewed plan features for customer 10160.,api_call,,10160,/api/plans & perks/plans/features/78356,failed,421
+2024-05-18 09:00:00+00:00,Agent agent01 updated firmware for customer 10161.,api_call,,10161,/api/device/fileclaim/92681,success,409
+2024-05-18 09:00:00+00:00,Agent agent18 viewed plan features for customer 10162.,api_call,,10162,/api/plans & perks/plans/features/40980,failed,263
+2024-05-18 09:00:00+00:00,Agent agent09 rebooted device for customer 10163.,api_call,rebooted_device,10163,/api/device/replacement/request/10090,failed,391
+2024-05-18 09:00:00+00:00,Agent agent07 added new line for customer 10164.,api_call,,10164,/api/account/activate/internationalcalling/62749,failed,61
+2024-05-18 09:00:00+00:00,Agent agent20 compared plans for customer 10165.,api_call,,10165,/api/plans & perks/plans/compare/66989,failed,80
+2024-05-18 09:00:00+00:00,Agent agent08 checked outage status for customer 10166.,api_call,,10166,/api/network/update/wifi-password/15747,failed,304
+2024-05-18 09:00:00+00:00,Agent agent13 updated security settings for customer 10167.,api_call,,10167,/api/account/password/reset/15554,failed,216
+2024-05-18 09:00:00+00:00,Agent agent18 resolved network issue for customer 10168.,api_call,resolved_network_issue,10168,/api/network/status/59976,failed,84
+2024-05-18 09:00:00+00:00,Agent agent01 added roaming package for customer 10169.,api_call,added_roaming_package,10169,/api/billing/add/paymentmethod/11427,failed,297
+2024-05-18 09:00:00+00:00,Agent agent17 initiated upgrade for customer 10170.,api_call,initiated_upgrade,10170,/api/upgrades/upgrade/plan/33530,success,456
+2024-05-18 09:00:00+00:00,Agent agent20 downloaded payment history for customer 10171.,api_call,downloaded_payment_history,10171,/api/billing/dispute/38227,failed,482
+2024-05-18 09:00:00+00:00,Agent agent04 fetched invoice for customer 10172.,api_call,,10172,/api/billing/dispute/63599,failed,427
+2024-05-18 09:00:00+00:00,Agent agent06 fetched invoice for customer 10173.,api_call,,10173,/api/billing/dispute/15290,failed,434
+2024-05-18 09:00:00+00:00,Agent agent01 rebooted device for customer 10174.,api_call,rebooted_device,10174,/api/upgrades/upgrade/device/65713,success,493
+2024-05-18 09:00:00+00:00,Agent agent05 reported outage for customer 10175.,api_call,reported_outage,10175,/api/network/diagnostics/74066,failed,195
+2024-05-18 09:00:00+00:00,Agent agent17 updated Wi-Fi password for customer 10176.,api_call,updated_Wi-Fi_password,10176,/api/network/troubleshoot/signal/61617,failed,407
+2024-05-18 09:00:00+00:00,Agent agent13 viewed plan features for customer 10177.,api_call,,10177,/api/plans & perks/plans/features/23048,failed,278
+2024-05-18 09:00:00+00:00,Agent agent19 upgraded device for customer 10178.,api_call,upgraded_device,10178,/api/device/reset/74426,failed,255
+2024-05-18 09:00:00+00:00,Agent agent20 checked network status for customer 10179.,api_call,,10179,/api/network/troubleshooting/77588,failed,102
+2024-05-18 09:00:00+00:00,Agent agent18 completed upgrade for customer 10180.,api_call,completed_upgrade,10180,/api/upgrades/upgrade/plan/64831,failed,328
+2024-05-18 09:00:00+00:00,Agent agent04 compared plans for customer 10181.,api_call,,10181,/api/plans & perks/plans/features/85406,failed,128
+2024-05-18 09:00:00+00:00,Agent agent17 filed device claim for customer 10182.,api_call,filed_device_claim,10182,/api/device/upgrade/78693,success,256
+2024-05-18 09:00:00+00:00,Agent agent02 ran speed test for customer 10183.,api_call,ran_speed_test,10183,/api/network/troubleshooting/70964,success,466
+2024-05-18 09:00:00+00:00,Agent agent01 fetched invoice for customer 10184.,api_call,,10184,/api/billing/scheduleautopay/25686,success,412
+2024-05-18 09:00:00+00:00,Agent agent04 checked network status for customer 10185.,api_call,,10185,/api/network/outage/status/10968,failed,472
+2024-05-18 09:00:00+00:00,Agent agent05 completed upgrade for customer 10186.,api_call,completed_upgrade,10186,/api/upgrades/upgrade/plan/66736,failed,388
+2024-05-18 09:00:00+00:00,Agent agent16 configured device for customer 10187.,api_call,,10187,/api/device/checkcompatibility/74036,failed,202
+2024-05-18 09:00:00+00:00,Agent agent20 adjusted QoS settings for customer 10188.,api_call,adjusted_QoS_settings,10188,/api/network/troubleshoot/signal/87489,failed,135
+2024-05-18 09:00:00+00:00,Agent agent13 troubleshot signal for customer 10189.,api_call,,10189,/api/network/speedtest/55995,failed,466
+2024-05-18 09:00:00+00:00,Agent agent09 updated language for customer 10190.,api_call,,10190,/api/account/update/language/65428,success,439
+2024-05-18 09:00:00+00:00,Agent agent02 viewed plan features for customer 10191.,api_call,,10191,/api/plans & perks/perks/redeem/45717,success,441
+2024-05-18 09:00:00+00:00,Agent agent17 configured device for customer 10192.,api_call,,10192,/api/device/replacement/request/51183,failed,265
+2024-05-18 09:00:00+00:00,Agent agent11 fetched invoice for customer 10193.,api_call,,10193,/api/billing/scheduleautopay/14254,failed,59
+2024-05-18 09:00:00+00:00,Agent agent07 filed device claim for customer 10194.,api_call,filed_device_claim,10194,/api/device/reset/57333,failed,473
+2024-05-18 09:00:00+00:00,Agent agent04 ran network diagnostics for customer 10195.,api_call,ran_network_diagnostics,10195,/api/network/optimize/71279,failed,240
+2024-05-18 09:00:00+00:00,Agent agent06 reset password for customer 10196.,api_call,reset_password,10196,/api/account/update/email/82817,success,50
+2024-05-18 09:00:00+00:00,Agent agent07 checked upgrade eligibility for customer 10197.,api_call,,10197,/api/upgrades/upgrade/plan/44002,failed,115
+2024-05-18 09:00:00+00:00,Agent agent02 compared plans for customer 10198.,api_call,,10198,/api/plans & perks/plans/features/26231,failed,80
+2024-05-18 09:00:00+00:00,Agent agent11 reported outage for customer 10199.,api_call,reported_outage,10199,/api/network/outage/report/57003,failed,133
+2024-05-18 09:00:00+00:00,Agent agent07 completed upgrade for customer 10200.,api_call,completed_upgrade,10200,/api/upgrades/upgrade/plan/79821,success,271
+2024-05-18 09:00:00+00:00,Agent agent09 scheduled autopay for customer 10201.,api_call,scheduled_autopay,10201,/api/billing/downloadstatements/28671,failed,95
+2024-05-18 09:00:00+00:00,Agent agent01 filed device claim for customer 10202.,api_call,filed_device_claim,10202,/api/device/fileclaim/43952,success,343
+2024-05-18 09:00:00+00:00,Agent agent19 updated security settings for customer 10203.,api_call,,10203,/api/account/update/language/68018,failed,288
+2024-05-18 09:00:00+00:00,Agent agent19 completed upgrade for customer 10204.,api_call,completed_upgrade,10204,/api/upgrades/upgrade/plan/32779,failed,314
+2024-05-18 09:00:00+00:00,Agent agent09 troubleshot signal for customer 10205.,api_call,,10205,/api/network/optimize/37958,failed,500
+2024-05-18 09:00:00+00:00,Agent agent09 ran speed test for customer 10206.,api_call,ran_speed_test,10206,/api/network/issueresolved/88577,failed,125
+2024-05-18 09:00:00+00:00,Agent agent15 viewed plan features for customer 10207.,api_call,,10207,/api/plans & perks/plans/features/50983,success,201
+2024-05-18 09:00:00+00:00,Agent agent06 viewed plan features for customer 10208.,api_call,,10208,/api/plans & perks/plans/features/85516,failed,428
+2024-05-18 09:00:00+00:00,Agent agent02 completed upgrade for customer 10209.,api_call,completed_upgrade,10209,/api/upgrades/upgrade/plan/36407,failed,227
+2024-05-18 09:00:00+00:00,Agent agent07 updated Wi-Fi password for customer 10210.,api_call,updated_Wi-Fi_password,10210,/api/network/diagnostics/64510,success,186
+2024-05-18 09:00:00+00:00,Agent agent14 checked upgrade eligibility for customer 10211.,api_call,,10211,/api/upgrades/upgrade/plan/41056,failed,222
+2024-05-18 09:00:00+00:00,Agent agent19 viewed plan features for customer 10212.,api_call,,10212,/api/plans & perks/plans/features/89294,failed,321
+2024-05-18 09:00:00+00:00,Agent agent10 checked upgrade eligibility for customer 10213.,api_call,,10213,/api/upgrades/upgrade/checkEligibility/53723,failed,106
+2024-05-18 09:00:00+00:00,Agent agent15 processed payment for customer 10214.,api_call,processed_payment,10214,/api/billing/invoices/92645,failed,159
+2024-05-18 09:00:00+00:00,Agent agent10 initiated upgrade for customer 10215.,api_call,initiated_upgrade,10215,/api/upgrades/upgrade/checkEligibility/75052,failed,440
+2024-05-18 09:00:00+00:00,Agent agent10 requested device replacement for customer 10216.,api_call,requested_device_replacement,10216,/api/device/fileclaim/12144,success,338
+2024-05-18 09:00:00+00:00,Agent agent12 viewed plan features for customer 10217.,api_call,,10217,/api/plans & perks/perks/redeem/80853,failed,121
+2024-05-18 09:00:00+00:00,Agent agent05 closed account for customer 10218.,api_call,,10218,/api/account/update/language/72513,failed,130
+2024-05-18 09:00:00+00:00,Agent agent03 closed account for customer 10219.,api_call,,10219,/api/account/update/security/63360,failed,67
+2024-05-18 09:00:00+00:00,Agent agent06 ran speed test for customer 10220.,api_call,ran_speed_test,10220,/api/network/update/wifi-password/37486,failed,432
+2024-05-18 09:00:00+00:00,Agent agent10 adjusted QoS settings for customer 10221.,api_call,adjusted_QoS_settings,10221,/api/network/update/wifi-password/96485,failed,242
+2024-05-18 09:00:00+00:00,Agent agent09 updated Wi-Fi password for customer 10222.,api_call,updated_Wi-Fi_password,10222,/api/network/optimize/82635,failed,340
+2024-05-18 09:00:00+00:00,Agent agent02 closed account for customer 10223.,api_call,,10223,/api/account/activate/69747,failed,172
+2024-05-18 09:00:00+00:00,Agent agent16 reset password for customer 10224.,api_call,reset_password,10224,/api/account/addnote/33474,failed,462
+2024-05-18 09:00:00+00:00,Agent agent20 optimized network settings for customer 10225.,api_call,optimized_network_settings,10225,/api/network/outage/report/76850,failed,485
+2024-05-18 09:00:00+00:00,Agent agent20 compared plans for customer 10226.,api_call,,10226,/api/plans & perks/plans/compare/79111,failed,91
+2024-05-18 09:00:00+00:00,Agent agent20 fetched invoice for customer 10227.,api_call,,10227,/api/billing/refund/49855,success,277
+2024-05-18 09:00:00+00:00,Agent agent04 upgraded device for customer 10228.,api_call,upgraded_device,10228,/api/device/checkcompatibility/85996,failed,253
+2024-05-18 09:00:00+00:00,Agent agent03 downloaded billing statements for customer 10229.,api_call,downloaded_billing_statements,10229,/api/billing/payment/55544,failed,478
+2024-05-18 09:00:00+00:00,Agent agent04 requested device replacement for customer 10230.,api_call,requested_device_replacement,10230,/api/device/replacement/request/27853,failed,300
+2024-05-18 09:00:00+00:00,Agent agent06 checked network status for customer 10231.,api_call,,10231,/api/network/outage/status/26696,success,118
+2024-05-18 09:00:00+00:00,Agent agent15 viewed plan features for customer 10232.,api_call,,10232,/api/plans & perks/plans/features/56424,failed,193
+2024-05-18 09:00:00+00:00,Agent agent04 downloaded billing statements for customer 10233.,api_call,downloaded_billing_statements,10233,/api/billing/scheduleautopay/96092,failed,235
+2024-05-18 09:00:00+00:00,Agent agent01 downloaded billing statements for customer 10234.,api_call,downloaded_billing_statements,10234,/api/billing/payment/history/download/90938,failed,218
+2024-05-18 09:00:00+00:00,Agent agent20 viewed plan features for customer 10235.,api_call,,10235,/api/plans & perks/perks/redeem/18010,failed,397
+2024-05-18 09:00:00+00:00,Agent agent09 completed upgrade for customer 10236.,api_call,completed_upgrade,10236,/api/upgrades/upgrade/plan/79787,failed,301
+2024-05-18 09:00:00+00:00,Agent agent05 optimized network settings for customer 10237.,api_call,optimized_network_settings,10237,/api/network/outage/report/84071,success,439
+2024-05-18 09:00:00+00:00,Agent agent07 troubleshot signal for customer 10238.,api_call,,10238,/api/network/updateqos/29553,failed,118
+2024-05-18 09:00:00+00:00,Agent agent07 updated security settings for customer 10239.,api_call,,10239,/api/account/update/profile/98103,failed,189
+2024-05-18 09:00:00+00:00,Agent agent19 completed upgrade for customer 10240.,api_call,completed_upgrade,10240,/api/upgrades/upgrade/plan/93948,failed,184
+2024-05-18 09:00:00+00:00,Agent agent15 fetched invoice for customer 10241.,api_call,,10241,/api/billing/scheduleautopay/98751,failed,271
+2024-05-18 09:00:00+00:00,Agent agent05 viewed plan features for customer 10242.,api_call,,10242,/api/plans & perks/plans/compare/55700,failed,187
+2024-05-18 09:00:00+00:00,Agent agent03 completed upgrade for customer 10243.,api_call,completed_upgrade,10243,/api/upgrades/upgrade/checkEligibility/55584,failed,195
+2024-05-18 09:00:00+00:00,Agent agent16 processed refund for customer 10244.,api_call,processed_refund,10244,/api/billing/add/paymentmethod/10466,success,172
+2024-05-18 09:00:00+00:00,Agent agent15 compared plans for customer 10245.,api_call,,10245,/api/plans & perks/plans/compare/50998,failed,130
+2024-05-18 09:00:00+00:00,Agent agent15 reset device for customer 10246.,api_call,reset_device,10246,/api/device/activate/45377,failed,288
+2024-05-18 09:00:00+00:00,Agent agent03 adjusted QoS settings for customer 10247.,api_call,adjusted_QoS_settings,10247,/api/network/issueresolved/52508,failed,317
+2024-05-18 09:00:00+00:00,Agent agent02 completed upgrade for customer 10248.,api_call,completed_upgrade,10248,/api/upgrades/upgrade/checkEligibility/20712,success,165
+2024-05-18 09:00:00+00:00,Agent agent14 updated data limit for customer 10249.,api_call,,10249,/api/device/reboot/76435,failed,340
+2024-05-18 09:00:00+00:00,Agent agent05 viewed plan features for customer 10250.,api_call,,10250,/api/plans & perks/perks/redeem/19682,failed,383
+2024-05-18 09:00:00+00:00,Agent agent06 viewed troubleshooting guide for customer 10251.,api_call,,10251,/api/network/outage/report/98111,success,461
+2024-05-18 09:00:00+00:00,Agent agent02 requested device replacement for customer 10252.,api_call,requested_device_replacement,10252,/api/device/reboot/63662,success,230
+2024-05-18 09:00:00+00:00,Agent agent17 initiated upgrade for customer 10253.,api_call,initiated_upgrade,10253,/api/upgrades/upgrade/checkEligibility/18661,failed,215
+2024-05-18 09:00:00+00:00,Agent agent05 rebooted device for customer 10254.,api_call,rebooted_device,10254,/api/device/checkcompatibility/51963,failed,92
+2024-05-18 09:00:00+00:00,Agent agent18 resolved network issue for customer 10255.,api_call,resolved_network_issue,10255,/api/network/updateqos/96669,failed,333
+2024-05-18 09:00:00+00:00,Agent agent04 viewed plan features for customer 10256.,api_call,,10256,/api/plans & perks/plans/features/38213,failed,374
+2024-05-18 09:00:00+00:00,Agent agent01 scheduled autopay for customer 10257.,api_call,scheduled_autopay,10257,/api/billing/scheduleautopay/96787,failed,301
+2024-05-18 09:00:00+00:00,Agent agent05 upgraded device for customer 10258.,api_call,upgraded_device,10258,/api/device/fileclaim/80349,failed,69
+2024-05-18 09:00:00+00:00,Agent agent05 upgraded device for customer 10259.,api_call,upgraded_device,10259,/api/device/configure/30040,failed,144
+2024-05-18 09:00:00+00:00,Agent agent07 updated language for customer 10260.,api_call,,10260,/api/account/updatesecurityquestions/67464,failed,297
+2024-05-18 09:00:00+00:00,Agent agent11 updated Wi-Fi password for customer 10261.,api_call,updated_Wi-Fi_password,10261,/api/network/troubleshoot/signal/83195,failed,392
+2024-05-18 09:00:00+00:00,Agent agent11 viewed plan features for customer 10262.,api_call,,10262,/api/plans & perks/plans/features/40624,failed,462
+2024-05-18 09:00:00+00:00,Agent agent09 updated billing address for customer 10263.,api_call,updated_billing_address,10263,/api/billing/payment/17662,success,123
+2024-05-18 09:00:00+00:00,Agent agent01 downloaded payment history for customer 10264.,api_call,downloaded_payment_history,10264,/api/billing/downloadstatements/46283,failed,104
+2024-05-18 09:00:00+00:00,Agent agent16 activated device for customer 10265.,api_call,activated_device,10265,/api/device/update/datalimit/12077,failed,206
+2024-05-18 09:00:00+00:00,Agent agent14 viewed plan features for customer 10266.,api_call,,10266,/api/plans & perks/plans/compare/55373,failed,401
+2024-05-18 09:00:00+00:00,Agent agent11 viewed plan features for customer 10267.,api_call,,10267,/api/plans & perks/plans/features/98327,failed,304
+2024-05-18 09:00:00+00:00,Agent agent13 compared plans for customer 10268.,api_call,,10268,/api/plans & perks/perks/redeem/24937,failed,477
+2024-05-18 09:00:00+00:00,Agent agent18 initiated upgrade for customer 10269.,api_call,initiated_upgrade,10269,/api/upgrades/upgrade/plan/62314,failed,307
+2024-05-18 09:00:00+00:00,Agent agent16 closed account for customer 10270.,api_call,,10270,/api/account/update/security/92482,failed,139
+2024-05-18 09:00:00+00:00,Agent agent16 updated billing address for customer 10271.,api_call,updated_billing_address,10271,/api/billing/update/address/55055,failed,73
+2024-05-18 09:00:00+00:00,Agent agent07 updated security questions for customer 10272.,api_call,,10272,/api/account/update/notifications/49873,failed,280
+2024-05-18 09:00:00+00:00,Agent agent05 processed payment for customer 10273.,api_call,processed_payment,10273,/api/billing/payment/82395,failed,255
+2024-05-18 09:00:00+00:00,Agent agent03 ran network diagnostics for customer 10274.,api_call,ran_network_diagnostics,10274,/api/network/optimize/13488,failed,271
+2024-05-18 09:00:00+00:00,Agent agent02 adjusted QoS settings for customer 10275.,api_call,adjusted_QoS_settings,10275,/api/network/diagnostics/90523,failed,221
+2024-05-18 09:00:00+00:00,Agent agent05 removed payment method for customer 10276.,api_call,removed_payment_method,10276,/api/billing/refund/56631,failed,421
+2024-05-18 09:00:00+00:00,Agent agent19 initiated upgrade for customer 10277.,api_call,initiated_upgrade,10277,/api/upgrades/upgrade/plan/35178,failed,156
+2024-05-18 09:00:00+00:00,Agent agent09 activated international calling for customer 10278.,api_call,activated_international_calling,10278,/api/account/close/92857,success,71
+2024-05-18 09:00:00+00:00,Agent agent08 rebooted device for customer 10279.,api_call,rebooted_device,10279,/api/device/activate/65688,failed,181
+2024-05-18 09:00:00+00:00,Agent agent04 activated device for customer 10280.,api_call,activated_device,10280,/api/device/reset/61808,failed,217
+2024-05-18 09:00:00+00:00,Agent agent17 updated Wi-Fi password for customer 10281.,api_call,updated_Wi-Fi_password,10281,/api/network/issueresolved/94584,failed,93
+2024-05-18 09:00:00+00:00,Agent agent08 added new line for customer 10282.,api_call,,10282,/api/account/update/security/35595,failed,489
+2024-05-18 09:00:00+00:00,Agent agent11 rebooted device for customer 10283.,api_call,rebooted_device,10283,/api/upgrades/upgrade/device/75041,failed,129
+2024-05-18 09:00:00+00:00,Agent agent08 checked outage status for customer 10284.,api_call,,10284,/api/network/outage/status/41221,success,61
+2024-05-18 09:00:00+00:00,Agent agent18 completed upgrade for customer 10285.,api_call,completed_upgrade,10285,/api/upgrades/upgrade/checkEligibility/47772,failed,427
+2024-05-18 09:00:00+00:00,Agent agent01 ran speed test for customer 10286.,api_call,ran_speed_test,10286,/api/network/speedtest/54426,failed,459
+2024-05-18 09:00:00+00:00,Agent agent06 added roaming package for customer 10287.,api_call,added_roaming_package,10287,/api/billing/invoices/66723,failed,274
+2024-05-18 09:00:00+00:00,Agent agent09 updated security settings for customer 10288.,api_call,,10288,/api/account/update/language/36872,failed,436
+2024-05-18 09:00:00+00:00,Agent agent06 compared plans for customer 10289.,api_call,,10289,/api/plans & perks/plans/compare/92296,success,348
+2024-05-18 09:00:00+00:00,Agent agent17 compared plans for customer 10290.,api_call,,10290,/api/plans & perks/plans/compare/32761,failed,459
+2024-05-18 09:00:00+00:00,Agent agent13 downloaded payment history for customer 10291.,api_call,downloaded_payment_history,10291,/api/billing/payment/history/download/45420,failed,164
+2024-05-18 09:00:00+00:00,Agent agent20 checked device compatibility for customer 10292.,api_call,,10292,/api/device/fileclaim/20061,failed,395
+2024-05-18 09:00:00+00:00,Agent agent03 ran speed test for customer 10293.,api_call,ran_speed_test,10293,/api/network/optimize/30237,failed,396
+2024-05-18 09:00:00+00:00,Agent agent01 viewed plan features for customer 10294.,api_call,,10294,/api/plans & perks/perks/redeem/81258,failed,327
+2024-05-18 09:00:00+00:00,Agent agent02 updated email address for customer 10295.,api_call,,10295,/api/account/update/language/64796,success,162
+2024-05-18 09:00:00+00:00,Agent agent16 activated account for customer 10296.,api_call,activated_account,10296,/api/account/activate/internationalcalling/51224,failed,304
+2024-05-18 09:00:00+00:00,Agent agent16 checked outage status for customer 10297.,api_call,,10297,/api/network/optimize/68764,failed,165
+2024-05-18 09:00:00+00:00,Agent agent17 rebooted device for customer 10298.,api_call,rebooted_device,10298,/api/device/replacement/request/27521,failed,500
+2024-05-18 09:00:00+00:00,Agent agent09 requested device replacement for customer 10299.,api_call,requested_device_replacement,10299,/api/device/replacement/request/79463,failed,303
+2024-05-18 09:00:00+00:00,Agent agent10 configured device for customer 10300.,api_call,,10300,/api/device/fileclaim/55346,failed,130
+2024-05-18 09:00:00+00:00,Agent agent07 processed refund for customer 10301.,api_call,processed_refund,10301,/api/billing/update/address/45912,success,471
+2024-05-18 09:00:00+00:00,Agent agent13 checked upgrade eligibility for customer 10302.,api_call,,10302,/api/upgrades/upgrade/checkEligibility/67513,success,273
+2024-05-18 09:00:00+00:00,Agent agent12 viewed plan features for customer 10303.,api_call,,10303,/api/plans & perks/plans/compare/21750,success,176
+2024-05-18 09:00:00+00:00,Agent agent01 initiated upgrade for customer 10304.,api_call,initiated_upgrade,10304,/api/upgrades/upgrade/checkEligibility/28902,success,433
+2024-05-18 09:00:00+00:00,Agent agent09 optimized network settings for customer 10305.,api_call,optimized_network_settings,10305,/api/network/troubleshoot/signal/59112,failed,343
+2024-05-18 09:00:00+00:00,Agent agent15 initiated upgrade for customer 10306.,api_call,initiated_upgrade,10306,/api/upgrades/upgrade/plan/72910,failed,104
+2024-05-18 09:00:00+00:00,Agent agent19 viewed plan features for customer 10307.,api_call,,10307,/api/plans & perks/plans/features/50364,failed,399
+2024-05-18 09:00:00+00:00,Agent agent20 initiated password reset for customer 10308.,api_call,initiated_password_reset,10308,/api/account/activate/internationalcalling/68075,failed,128
+2024-05-18 09:00:00+00:00,Agent agent16 reset device for customer 10309.,api_call,reset_device,10309,/api/device/replacement/request/71752,success,405
+2024-05-18 09:00:00+00:00,Agent agent09 added roaming package for customer 10310.,api_call,added_roaming_package,10310,/api/billing/update/address/64353,failed,372
+2024-05-18 09:00:00+00:00,Agent agent14 upgraded device for customer 10311.,api_call,upgraded_device,10311,/api/device/activate/85124,failed,97
+2024-05-18 09:00:00+00:00,Agent agent18 updated security settings for customer 10312.,api_call,,10312,/api/account/addnote/37406,failed,366
+2024-05-18 09:00:00+00:00,Agent agent14 updated firmware for customer 10313.,api_call,,10313,/api/device/upgrade/86223,failed,383
+2024-05-18 09:00:00+00:00,Agent agent19 activated account for customer 10314.,api_call,activated_account,10314,/api/account/addline/97047,failed,293
+2024-05-18 09:00:00+00:00,Agent agent14 reset password for customer 10315.,api_call,reset_password,10315,/api/account/password/reset/62795,failed,366
+2024-05-18 09:00:00+00:00,Agent agent02 processed payment for customer 10316.,api_call,processed_payment,10316,/api/billing/add/paymentmethod/37317,failed,175
+2024-05-18 09:00:00+00:00,Agent agent02 compared plans for customer 10317.,api_call,,10317,/api/plans & perks/perks/redeem/24226,failed,484
+2024-05-18 09:00:00+00:00,Agent agent05 initiated upgrade for customer 10318.,api_call,initiated_upgrade,10318,/api/upgrades/upgrade/plan/33188,failed,109
+2024-05-18 09:00:00+00:00,Agent agent11 checked upgrade eligibility for customer 10319.,api_call,,10319,/api/upgrades/upgrade/checkEligibility/72270,failed,85
+2024-05-18 09:00:00+00:00,Agent agent04 activated device for customer 10320.,api_call,activated_device,10320,/api/device/activate/97748,failed,223
+2024-05-18 09:00:00+00:00,Agent agent09 added payment method for customer 10321.,api_call,added_payment_method,10321,/api/billing/downloadstatements/42571,failed,94
+2024-05-18 09:00:00+00:00,Agent agent18 configured device for customer 10322.,api_call,,10322,/api/device/activate/91863,failed,346
+2024-05-18 09:00:00+00:00,Agent agent04 activated device for customer 10323.,api_call,activated_device,10323,/api/device/update/firmware/40571,failed,416
+2024-05-18 09:00:00+00:00,Agent agent05 completed upgrade for customer 10324.,api_call,completed_upgrade,10324,/api/upgrades/upgrade/plan/27396,failed,101
+2024-05-18 09:00:00+00:00,Agent agent04 downloaded billing statements for customer 10325.,api_call,downloaded_billing_statements,10325,/api/billing/add/roamingpackage/21759,failed,329
+2024-05-18 09:00:00+00:00,Agent agent17 fetched invoice for customer 10326.,api_call,,10326,/api/billing/payment/11161,success,91
+2024-05-18 09:00:00+00:00,Agent agent01 checked upgrade eligibility for customer 10327.,api_call,,10327,/api/upgrades/upgrade/checkEligibility/91446,failed,342
+2024-05-18 09:00:00+00:00,Agent agent01 initiated password reset for customer 10328.,api_call,initiated_password_reset,10328,/api/account/updatesecurityquestions/11621,failed,220
+2024-05-18 09:00:00+00:00,Agent agent02 viewed plan features for customer 10329.,api_call,,10329,/api/plans & perks/plans/features/53060,failed,217
+2024-05-18 09:00:00+00:00,Agent agent13 removed payment method for customer 10330.,api_call,removed_payment_method,10330,/api/billing/refund/65469,failed,423
+2024-05-18 09:00:00+00:00,Agent agent16 completed upgrade for customer 10331.,api_call,completed_upgrade,10331,/api/upgrades/upgrade/plan/58522,success,296
+2024-05-18 09:00:00+00:00,Agent agent18 initiated upgrade for customer 10332.,api_call,initiated_upgrade,10332,/api/upgrades/upgrade/plan/30431,failed,195
+2024-05-18 09:00:00+00:00,Agent agent20 viewed plan features for customer 10333.,api_call,,10333,/api/plans & perks/perks/redeem/21699,success,59
+2024-05-18 09:00:00+00:00,Agent agent18 fetched invoice for customer 10334.,api_call,,10334,/api/billing/update/address/58970,failed,453
+2024-05-18 09:00:00+00:00,Agent agent13 checked device compatibility for customer 10335.,api_call,,10335,/api/device/update/datalimit/21344,failed,402
+2024-05-18 09:00:00+00:00,Agent agent05 viewed plan features for customer 10336.,api_call,,10336,/api/plans & perks/perks/redeem/67056,failed,410
+2024-05-18 09:00:00+00:00,Agent agent07 compared plans for customer 10337.,api_call,,10337,/api/plans & perks/plans/compare/30450,failed,378
+2024-05-18 09:00:00+00:00,Agent agent19 compared plans for customer 10338.,api_call,,10338,/api/plans & perks/plans/compare/27593,failed,249
+2024-05-18 09:00:00+00:00,Agent agent05 compared plans for customer 10339.,api_call,,10339,/api/plans & perks/plans/features/69507,failed,454
+2024-05-18 09:00:00+00:00,Agent agent16 initiated upgrade for customer 10340.,api_call,initiated_upgrade,10340,/api/upgrades/upgrade/checkEligibility/10295,success,54
+2024-05-18 09:00:00+00:00,Agent agent12 initiated upgrade for customer 10341.,api_call,initiated_upgrade,10341,/api/upgrades/upgrade/checkEligibility/46889,failed,431
+2024-05-18 09:00:00+00:00,Agent agent16 compared plans for customer 10342.,api_call,,10342,/api/plans & perks/plans/features/94948,failed,463
+2024-05-18 09:00:00+00:00,Agent agent17 updated profile for customer 10343.,api_call,,10343,/api/account/activate/79457,failed,341
+2024-05-18 09:00:00+00:00,Agent agent09 added roaming package for customer 10344.,api_call,added_roaming_package,10344,/api/billing/remove/paymentmethod/30660,failed,291
+2024-05-18 09:00:00+00:00,Agent agent05 updated firmware for customer 10345.,api_call,,10345,/api/device/fileclaim/20720,failed,132
+2024-05-18 09:00:00+00:00,Agent agent02 activated device for customer 10346.,api_call,activated_device,10346,/api/device/replacement/request/66151,failed,253
+2024-05-18 09:00:00+00:00,Agent agent10 initiated password reset for customer 10347.,api_call,initiated_password_reset,10347,/api/account/addnote/10073,failed,267
+2024-05-18 09:00:00+00:00,Agent agent14 compared plans for customer 10348.,api_call,,10348,/api/plans & perks/plans/features/60681,failed,140
+2024-05-18 09:00:00+00:00,Agent agent08 updated profile for customer 10349.,api_call,,10349,/api/account/update/security/56860,failed,185
+2024-05-18 09:00:00+00:00,Agent agent13 filed device claim for customer 10350.,api_call,filed_device_claim,10350,/api/upgrades/upgrade/device/21558,failed,403
+2024-05-18 09:00:00+00:00,Agent agent11 checked device compatibility for customer 10351.,api_call,,10351,/api/upgrades/upgrade/device/64147,failed,412
+2024-05-18 09:00:00+00:00,Agent agent01 requested device replacement for customer 10352.,api_call,requested_device_replacement,10352,/api/upgrades/upgrade/device/40812,success,160
+2024-05-18 09:00:00+00:00,Agent agent15 adjusted QoS settings for customer 10353.,api_call,adjusted_QoS_settings,10353,/api/network/optimize/74126,failed,240
+2024-05-18 09:00:00+00:00,Agent agent11 updated Wi-Fi password for customer 10354.,api_call,updated_Wi-Fi_password,10354,/api/network/troubleshoot/signal/24383,failed,170
+2024-05-18 09:00:00+00:00,Agent agent11 viewed plan features for customer 10355.,api_call,,10355,/api/plans & perks/plans/features/36276,failed,329
+2024-05-18 09:00:00+00:00,Agent agent05 requested device replacement for customer 10356.,api_call,requested_device_replacement,10356,/api/device/fileclaim/32787,failed,142
+2024-05-18 09:00:00+00:00,Agent agent06 reset device for customer 10357.,api_call,reset_device,10357,/api/upgrades/upgrade/device/75357,failed,185
+2024-05-18 09:00:00+00:00,Agent agent16 viewed plan features for customer 10358.,api_call,,10358,/api/plans & perks/perks/redeem/79627,success,350
+2024-05-18 09:00:00+00:00,Agent agent10 filed device claim for customer 10359.,api_call,filed_device_claim,10359,/api/upgrades/upgrade/device/87507,failed,233
+2024-05-18 09:00:00+00:00,Agent agent16 updated security settings for customer 10360.,api_call,,10360,/api/account/update/profile/32312,failed,267
+2024-05-18 09:00:00+00:00,Agent agent04 viewed plan features for customer 10361.,api_call,,10361,/api/plans & perks/perks/redeem/63769,failed,259
+2024-05-18 09:00:00+00:00,Agent agent06 updated security questions for customer 10362.,api_call,,10362,/api/account/addnote/20514,failed,279
+2024-05-18 09:00:00+00:00,Agent agent06 compared plans for customer 10363.,api_call,,10363,/api/plans & perks/plans/compare/58696,success,153
+2024-05-18 09:00:00+00:00,Agent agent12 processed payment for customer 10364.,api_call,processed_payment,10364,/api/billing/add/roamingpackage/97695,failed,246
+2024-05-18 09:00:00+00:00,Agent agent03 viewed plan features for customer 10365.,api_call,,10365,/api/plans & perks/perks/redeem/36786,failed,391
+2024-05-18 09:00:00+00:00,Agent agent13 checked device compatibility for customer 10366.,api_call,,10366,/api/device/configure/21264,failed,347
+2024-05-18 09:00:00+00:00,Agent agent19 downloaded billing statements for customer 10367.,api_call,downloaded_billing_statements,10367,/api/billing/downloadstatements/26030,failed,125
+2024-05-18 09:00:00+00:00,Agent agent04 checked network status for customer 10368.,api_call,,10368,/api/network/diagnostics/25546,failed,446
+2024-05-18 09:00:00+00:00,Agent agent12 compared plans for customer 10369.,api_call,,10369,/api/plans & perks/perks/redeem/63053,failed,291
+2024-05-18 09:00:00+00:00,Agent agent01 checked device compatibility for customer 10370.,api_call,,10370,/api/device/activate/54482,failed,101
+2024-05-18 09:00:00+00:00,Agent agent13 updated firmware for customer 10371.,api_call,,10371,/api/upgrades/upgrade/device/59958,failed,293
+2024-05-18 09:00:00+00:00,Agent agent13 activated device for customer 10372.,api_call,activated_device,10372,/api/device/reset/75478,failed,73
+2024-05-18 09:00:00+00:00,Agent agent13 checked upgrade eligibility for customer 10373.,api_call,,10373,/api/upgrades/upgrade/plan/55276,failed,457
+2024-05-18 09:00:00+00:00,Agent agent03 initiated upgrade for customer 10374.,api_call,initiated_upgrade,10374,/api/upgrades/upgrade/plan/18535,failed,201
+2024-05-18 09:00:00+00:00,Agent agent05 updated language for customer 10375.,api_call,,10375,/api/account/activate/internationalcalling/70379,failed,236
+2024-05-18 09:00:00+00:00,Agent agent14 initiated upgrade for customer 10376.,api_call,initiated_upgrade,10376,/api/upgrades/upgrade/checkEligibility/45992,failed,383
+2024-05-18 09:00:00+00:00,Agent agent06 reset device for customer 10377.,api_call,reset_device,10377,/api/upgrades/upgrade/device/20418,failed,313
+2024-05-18 09:00:00+00:00,Agent agent11 updated notification preferences for customer 10378.,api_call,,10378,/api/account/reset/password/84743,failed,84
+2024-05-18 09:00:00+00:00,Agent agent17 upgraded device for customer 10379.,api_call,upgraded_device,10379,/api/upgrades/upgrade/device/22882,failed,69
+2024-05-18 09:00:00+00:00,Agent agent10 compared plans for customer 10380.,api_call,,10380,/api/plans & perks/plans/compare/74136,failed,457
+2024-05-18 09:00:00+00:00,Agent agent19 ran network diagnostics for customer 10381.,api_call,ran_network_diagnostics,10381,/api/network/status/97950,failed,409
+2024-05-18 09:00:00+00:00,Agent agent11 filed device claim for customer 10382.,api_call,filed_device_claim,10382,/api/upgrades/upgrade/device/58128,failed,434
+2024-05-18 09:00:00+00:00,Agent agent07 initiated password reset for customer 10383.,api_call,initiated_password_reset,10383,/api/account/reset/password/76344,failed,71
+2024-05-18 09:00:00+00:00,Agent agent15 completed upgrade for customer 10384.,api_call,completed_upgrade,10384,/api/upgrades/upgrade/plan/82169,failed,260
+2024-05-18 09:00:00+00:00,Agent agent07 reset device for customer 10385.,api_call,reset_device,10385,/api/device/upgrade/40351,failed,448
+2024-05-18 09:00:00+00:00,Agent agent05 optimized network settings for customer 10386.,api_call,optimized_network_settings,10386,/api/network/issueresolved/88323,failed,292
+2024-05-18 09:00:00+00:00,Agent agent04 updated security settings for customer 10387.,api_call,,10387,/api/account/activate/87545,failed,112
+2024-05-18 09:00:00+00:00,Agent agent13 activated device for customer 10388.,api_call,activated_device,10388,/api/upgrades/upgrade/device/64333,failed,452
+2024-05-18 09:00:00+00:00,Agent agent08 troubleshot signal for customer 10389.,api_call,,10389,/api/network/status/22910,failed,361
+2024-05-18 09:00:00+00:00,Agent agent03 updated data limit for customer 10390.,api_call,,10390,/api/device/fileclaim/31176,failed,261
+2024-05-18 09:00:00+00:00,Agent agent15 reported outage for customer 10391.,api_call,reported_outage,10391,/api/network/outage/report/45738,success,485
+2024-05-18 09:00:00+00:00,Agent agent05 updated Wi-Fi password for customer 10392.,api_call,updated_Wi-Fi_password,10392,/api/network/troubleshooting/94429,failed,160
+2024-05-18 09:00:00+00:00,Agent agent04 removed payment method for customer 10393.,api_call,removed_payment_method,10393,/api/billing/dispute/37504,success,185
+2024-05-18 09:00:00+00:00,Agent agent08 compared plans for customer 10394.,api_call,,10394,/api/plans & perks/plans/features/41211,failed,94
+2024-05-18 09:00:00+00:00,Agent agent08 viewed plan features for customer 10395.,api_call,,10395,/api/plans & perks/plans/compare/27882,failed,418
+2024-05-18 09:00:00+00:00,Agent agent09 viewed plan features for customer 10396.,api_call,,10396,/api/plans & perks/perks/redeem/12235,failed,277
+2024-05-18 09:00:00+00:00,Agent agent17 scheduled autopay for customer 10397.,api_call,scheduled_autopay,10397,/api/billing/update/address/30495,failed,444
+2024-05-18 09:00:00+00:00,Agent agent19 processed payment for customer 10398.,api_call,processed_payment,10398,/api/billing/update/address/99539,failed,336
+2024-05-18 09:00:00+00:00,Agent agent10 configured device for customer 10399.,api_call,,10399,/api/device/reboot/85037,failed,325
+2024-05-18 09:00:00+00:00,Agent agent20 checked device compatibility for customer 10400.,api_call,,10400,/api/device/reset/96184,failed,259
+2024-05-18 09:00:00+00:00,Agent agent02 added payment method for customer 10401.,api_call,added_payment_method,10401,/api/billing/invoices/89375,failed,245
+2024-05-18 09:00:00+00:00,Agent agent18 updated profile for customer 10402.,api_call,,10402,/api/account/update/language/22056,failed,335
+2024-05-18 09:00:00+00:00,Agent agent06 closed account for customer 10403.,api_call,,10403,/api/account/update/notifications/52580,failed,438
+2024-05-18 09:00:00+00:00,Agent agent20 filed device claim for customer 10404.,api_call,filed_device_claim,10404,/api/upgrades/upgrade/device/69266,failed,164
+2024-05-18 09:00:00+00:00,Agent agent17 updated security questions for customer 10405.,api_call,,10405,/api/account/update/security/85546,failed,78
+2024-05-18 09:00:00+00:00,Agent agent14 viewed plan features for customer 10406.,api_call,,10406,/api/plans & perks/plans/compare/93654,failed,401
+2024-05-18 09:00:00+00:00,Agent agent19 updated email address for customer 10407.,api_call,,10407,/api/account/update/email/53186,failed,109
+2024-05-18 09:00:00+00:00,Agent agent14 viewed plan features for customer 10408.,api_call,,10408,/api/plans & perks/perks/redeem/22323,failed,269
+2024-05-18 09:00:00+00:00,Agent agent04 viewed plan features for customer 10409.,api_call,,10409,/api/plans & perks/plans/features/42078,failed,408
+2024-05-18 09:00:00+00:00,Agent agent04 viewed plan features for customer 10410.,api_call,,10410,/api/plans & perks/perks/redeem/23111,failed,158
+2024-05-18 09:00:00+00:00,Agent agent06 completed upgrade for customer 10411.,api_call,completed_upgrade,10411,/api/upgrades/upgrade/checkEligibility/10828,failed,253
+2024-05-18 09:00:00+00:00,Agent agent18 configured device for customer 10412.,api_call,,10412,/api/device/update/datalimit/19029,failed,91
+2024-05-18 09:00:00+00:00,Agent agent09 processed payment for customer 10413.,api_call,processed_payment,10413,/api/billing/refund/52341,failed,317
+2024-05-18 09:00:00+00:00,Agent agent15 filed device claim for customer 10414.,api_call,filed_device_claim,10414,/api/upgrades/upgrade/device/39609,failed,180
+2024-05-18 09:00:00+00:00,Agent agent05 checked device compatibility for customer 10415.,api_call,,10415,/api/device/update/datalimit/93101,success,470
+2024-05-18 09:00:00+00:00,Agent agent16 resolved network issue for customer 10416.,api_call,resolved_network_issue,10416,/api/network/troubleshoot/signal/10164,failed,494
+2024-05-18 09:00:00+00:00,Agent agent16 checked outage status for customer 10417.,api_call,,10417,/api/network/updateqos/88457,failed,497
+2024-05-18 09:00:00+00:00,Agent agent20 updated firmware for customer 10418.,api_call,,10418,/api/device/upgrade/17880,failed,431
+2024-05-18 09:00:00+00:00,Agent agent02 updated data limit for customer 10419.,api_call,,10419,/api/device/reset/82676,failed,402
+2024-05-18 09:00:00+00:00,Agent agent18 removed payment method for customer 10420.,api_call,removed_payment_method,10420,/api/billing/scheduleautopay/69048,failed,284
+2024-05-18 09:00:00+00:00,Agent agent03 activated account for customer 10421.,api_call,activated_account,10421,/api/account/update/language/62001,success,148
+2024-05-18 09:00:00+00:00,Agent agent05 viewed plan features for customer 10422.,api_call,,10422,/api/plans & perks/plans/features/87194,success,236
+2024-05-18 09:00:00+00:00,Agent agent01 ran network diagnostics for customer 10423.,api_call,ran_network_diagnostics,10423,/api/network/status/84168,failed,258
+2024-05-18 09:00:00+00:00,Agent agent06 reported outage for customer 10424.,api_call,reported_outage,10424,/api/network/updateqos/87354,success,359
+2024-05-18 09:00:00+00:00,Agent agent16 updated notification preferences for customer 10425.,api_call,,10425,/api/account/activate/internationalcalling/48817,failed,360
+2024-05-18 09:00:00+00:00,Agent agent06 viewed plan features for customer 10426.,api_call,,10426,/api/plans & perks/plans/features/87010,failed,133
+2024-05-18 09:00:00+00:00,Agent agent09 fetched invoice for customer 10427.,api_call,,10427,/api/billing/payment/history/download/60186,failed,109
+2024-05-18 09:00:00+00:00,Agent agent02 fetched invoice for customer 10428.,api_call,,10428,/api/billing/remove/paymentmethod/38135,failed,151
+2024-05-18 09:00:00+00:00,Agent agent06 updated billing address for customer 10429.,api_call,updated_billing_address,10429,/api/billing/add/paymentmethod/78839,success,404
+2024-05-18 09:00:00+00:00,Agent agent09 compared plans for customer 10430.,api_call,,10430,/api/plans & perks/plans/compare/18482,failed,118
+2024-05-18 09:00:00+00:00,Agent agent07 updated billing address for customer 10431.,api_call,updated_billing_address,10431,/api/billing/refund/48160,failed,195
+2024-05-18 09:00:00+00:00,Agent agent16 reported outage for customer 10432.,api_call,reported_outage,10432,/api/network/issueresolved/59949,failed,122
+2024-05-18 09:00:00+00:00,Agent agent19 fetched invoice for customer 10433.,api_call,,10433,/api/billing/scheduleautopay/46897,success,325
+2024-05-18 09:00:00+00:00,Agent agent06 viewed troubleshooting guide for customer 10434.,api_call,,10434,/api/network/troubleshoot/signal/61578,failed,243
+2024-05-18 09:00:00+00:00,Agent agent14 resolved network issue for customer 10435.,api_call,resolved_network_issue,10435,/api/network/optimize/80570,failed,183
+2024-05-18 09:00:00+00:00,Agent agent15 closed account for customer 10436.,api_call,,10436,/api/account/addline/78394,failed,350
+2024-05-18 09:00:00+00:00,Agent agent19 updated billing address for customer 10437.,api_call,updated_billing_address,10437,/api/billing/downloadstatements/54206,failed,287
+2024-05-18 09:00:00+00:00,Agent agent18 completed upgrade for customer 10438.,api_call,completed_upgrade,10438,/api/upgrades/upgrade/checkEligibility/82614,failed,306
+2024-05-18 09:00:00+00:00,Agent agent12 requested device replacement for customer 10439.,api_call,requested_device_replacement,10439,/api/upgrades/upgrade/device/19509,failed,418
+2024-05-18 09:00:00+00:00,Agent agent15 activated device for customer 10440.,api_call,activated_device,10440,/api/upgrades/upgrade/device/63357,failed,326
+2024-05-18 09:00:00+00:00,Agent agent12 filed device claim for customer 10441.,api_call,filed_device_claim,10441,/api/device/replacement/request/99847,failed,62
+2024-05-18 09:00:00+00:00,Agent agent13 initiated dispute for customer 10442.,api_call,initiated_dispute,10442,/api/billing/downloadstatements/52907,failed,70
+2024-05-18 09:00:00+00:00,Agent agent01 checked device compatibility for customer 10443.,api_call,,10443,/api/device/configure/78875,failed,135
+2024-05-18 09:00:00+00:00,Agent agent01 updated email address for customer 10444.,api_call,,10444,/api/account/activate/10595,failed,418
+2024-05-18 09:00:00+00:00,Agent agent12 downloaded billing statements for customer 10445.,api_call,downloaded_billing_statements,10445,/api/billing/invoices/56190,failed,62
+2024-05-18 09:00:00+00:00,Agent agent11 requested device replacement for customer 10446.,api_call,requested_device_replacement,10446,/api/device/fileclaim/10591,failed,370
+2024-05-18 09:00:00+00:00,Agent agent17 updated security settings for customer 10447.,api_call,,10447,/api/account/update/security/46030,failed,422
+2024-05-18 09:00:00+00:00,Agent agent20 scheduled autopay for customer 10448.,api_call,scheduled_autopay,10448,/api/billing/invoices/25727,failed,287
+2024-05-18 09:00:00+00:00,Agent agent13 activated device for customer 10449.,api_call,activated_device,10449,/api/device/activate/68352,failed,172
+2024-05-18 09:00:00+00:00,Agent agent12 filed device claim for customer 10450.,api_call,filed_device_claim,10450,/api/device/reset/44883,failed,413
+2024-05-18 09:00:00+00:00,Agent agent18 fetched invoice for customer 10451.,api_call,,10451,/api/billing/dispute/37455,failed,461
+2024-05-18 09:00:00+00:00,Agent agent16 troubleshot signal for customer 10452.,api_call,,10452,/api/network/optimize/57607,failed,237
+2024-05-18 09:00:00+00:00,Agent agent20 ran network diagnostics for customer 10453.,api_call,ran_network_diagnostics,10453,/api/network/outage/report/52176,failed,457
+2024-05-18 09:00:00+00:00,Agent agent11 checked device compatibility for customer 10454.,api_call,,10454,/api/device/update/datalimit/77885,failed,200
+2024-05-18 09:00:00+00:00,Agent agent15 updated language for customer 10455.,api_call,,10455,/api/account/reset/password/33669,failed,332
+2024-05-18 09:00:00+00:00,Agent agent01 removed payment method for customer 10456.,api_call,removed_payment_method,10456,/api/billing/add/roamingpackage/90429,failed,88
+2024-05-18 09:00:00+00:00,Agent agent07 compared plans for customer 10457.,api_call,,10457,/api/plans & perks/plans/compare/90906,failed,450
+2024-05-18 09:00:00+00:00,Agent agent02 initiated dispute for customer 10458.,api_call,initiated_dispute,10458,/api/billing/payment/history/download/90730,failed,211
+2024-05-18 09:00:00+00:00,Agent agent03 initiated upgrade for customer 10459.,api_call,initiated_upgrade,10459,/api/upgrades/upgrade/checkEligibility/36576,success,241
+2024-05-18 09:00:00+00:00,Agent agent10 removed payment method for customer 10460.,api_call,removed_payment_method,10460,/api/billing/remove/paymentmethod/82677,failed,115
+2024-05-18 09:00:00+00:00,Agent agent06 optimized network settings for customer 10461.,api_call,optimized_network_settings,10461,/api/network/speedtest/41187,success,66
+2024-05-18 09:00:00+00:00,Agent agent16 troubleshot signal for customer 10462.,api_call,,10462,/api/network/outage/status/58754,failed,68
+2024-05-18 09:00:00+00:00,Agent agent04 updated email address for customer 10463.,api_call,,10463,/api/account/reset/password/37519,failed,457
+2024-05-18 09:00:00+00:00,Agent agent16 updated billing address for customer 10464.,api_call,updated_billing_address,10464,/api/billing/add/paymentmethod/73695,failed,189
+2024-05-18 09:00:00+00:00,Agent agent16 updated firmware for customer 10465.,api_call,,10465,/api/device/replacement/request/24262,failed,222
+2024-05-18 09:00:00+00:00,Agent agent06 optimized network settings for customer 10466.,api_call,optimized_network_settings,10466,/api/network/issueresolved/83694,failed,284
+2024-05-18 09:00:00+00:00,Agent agent20 initiated dispute for customer 10467.,api_call,initiated_dispute,10467,/api/billing/remove/paymentmethod/30293,success,284
+2024-05-18 09:00:00+00:00,Agent agent17 updated Wi-Fi password for customer 10468.,api_call,updated_Wi-Fi_password,10468,/api/network/troubleshoot/signal/92166,failed,212
+2024-05-18 09:00:00+00:00,Agent agent05 viewed plan features for customer 10469.,api_call,,10469,/api/plans & perks/plans/compare/30646,failed,106
+2024-05-18 09:00:00+00:00,Agent agent20 filed device claim for customer 10470.,api_call,filed_device_claim,10470,/api/device/replacement/request/59630,failed,172
+2024-05-18 09:00:00+00:00,Agent agent02 checked device compatibility for customer 10471.,api_call,,10471,/api/device/checkcompatibility/79937,failed,95
+2024-05-18 09:00:00+00:00,Agent agent07 viewed plan features for customer 10472.,api_call,,10472,/api/plans & perks/plans/features/75828,failed,224
+2024-05-18 09:00:00+00:00,Agent agent16 viewed plan features for customer 10473.,api_call,,10473,/api/plans & perks/perks/redeem/81094,success,370
+2024-05-18 09:00:00+00:00,Agent agent16 updated firmware for customer 10474.,api_call,,10474,/api/device/fileclaim/91005,failed,51
+2024-05-18 09:00:00+00:00,Agent agent13 checked network status for customer 10475.,api_call,,10475,/api/network/optimize/70143,failed,456
+2024-05-18 09:00:00+00:00,Agent agent17 added new line for customer 10476.,api_call,,10476,/api/account/close/42673,failed,267
+2024-05-18 09:00:00+00:00,Agent agent02 viewed plan features for customer 10477.,api_call,,10477,/api/plans & perks/plans/features/78998,failed,320
+2024-05-18 09:00:00+00:00,Agent agent07 updated billing address for customer 10478.,api_call,updated_billing_address,10478,/api/billing/downloadstatements/31308,success,409
+2024-05-18 09:00:00+00:00,Agent agent16 updated security questions for customer 10479.,api_call,,10479,/api/account/activate/internationalcalling/21749,failed,303
+2024-05-18 09:00:00+00:00,Agent agent19 removed payment method for customer 10480.,api_call,removed_payment_method,10480,/api/billing/add/roamingpackage/65357,success,470
+2024-05-18 09:00:00+00:00,Agent agent07 downloaded billing statements for customer 10481.,api_call,downloaded_billing_statements,10481,/api/billing/add/roamingpackage/11543,failed,219
+2024-05-18 09:00:00+00:00,Agent agent09 upgraded device for customer 10482.,api_call,upgraded_device,10482,/api/device/replacement/request/82587,failed,396
+2024-05-18 09:00:00+00:00,Agent agent01 configured device for customer 10483.,api_call,,10483,/api/device/configure/57090,failed,468
+2024-05-18 09:00:00+00:00,Agent agent18 viewed plan features for customer 10484.,api_call,,10484,/api/plans & perks/perks/redeem/14191,failed,340
+2024-05-18 09:00:00+00:00,Agent agent08 updated data limit for customer 10485.,api_call,,10485,/api/device/configure/90108,failed,68
+2024-05-18 09:00:00+00:00,Agent agent20 completed upgrade for customer 10486.,api_call,completed_upgrade,10486,/api/upgrades/upgrade/plan/56735,failed,263
+2024-05-18 09:00:00+00:00,Agent agent06 compared plans for customer 10487.,api_call,,10487,/api/plans & perks/perks/redeem/95868,failed,383
+2024-05-18 09:00:00+00:00,Agent agent18 initiated dispute for customer 10488.,api_call,initiated_dispute,10488,/api/billing/scheduleautopay/77748,failed,312
+2024-05-18 09:00:00+00:00,Agent agent15 initiated password reset for customer 10489.,api_call,initiated_password_reset,10489,/api/account/close/14332,failed,448
+2024-05-18 09:00:00+00:00,Agent agent05 updated data limit for customer 10490.,api_call,,10490,/api/device/update/datalimit/76150,failed,218
+2024-05-18 09:00:00+00:00,Agent agent05 viewed plan features for customer 10491.,api_call,,10491,/api/plans & perks/perks/redeem/69614,failed,183
+2024-05-18 09:00:00+00:00,Agent agent14 activated account for customer 10492.,api_call,activated_account,10492,/api/account/activate/internationalcalling/96186,failed,331
+2024-05-18 09:00:00+00:00,Agent agent20 checked outage status for customer 10493.,api_call,,10493,/api/network/troubleshooting/82873,failed,183
+2024-05-18 09:00:00+00:00,Agent agent11 closed account for customer 10494.,api_call,,10494,/api/account/close/45476,success,268
+2024-05-18 09:00:00+00:00,Agent agent18 completed upgrade for customer 10495.,api_call,completed_upgrade,10495,/api/upgrades/upgrade/plan/67129,failed,390
+2024-05-18 09:00:00+00:00,Agent agent07 checked upgrade eligibility for customer 10496.,api_call,,10496,/api/upgrades/upgrade/plan/88198,failed,335
+2024-05-18 09:00:00+00:00,Agent agent11 adjusted QoS settings for customer 10497.,api_call,adjusted_QoS_settings,10497,/api/network/status/37758,success,178
+2024-05-18 09:00:00+00:00,Agent agent20 resolved network issue for customer 10498.,api_call,resolved_network_issue,10498,/api/network/outage/report/43930,failed,323
+2024-05-18 09:00:00+00:00,Agent agent20 updated billing address for customer 10499.,api_call,updated_billing_address,10499,/api/billing/payment/history/download/36733,failed,310

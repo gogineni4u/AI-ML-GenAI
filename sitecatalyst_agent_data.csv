@@ -1,0 +1,501 @@
+hit_time_gmt,post_visid_high,post_visid_low,visit_num,page_name,page_url,event_list,events,evar1,prop1,prop2,event.customer_id,time_spent
+2024-05-18 08:59:00+00:00,3375874609,1104764734,4,Network Diagnostics,/network/Network-Diagnostics/10017,1,event4,agent05,Network,Network Diagnostics,10017,92
+2024-05-18 08:59:00+00:00,4124185233,4962338791,4,Invoice Details,/billing/Invoice-Details/10021,,,agent05,Billing,Invoice Details,10021,153
+2024-05-18 08:59:00+00:00,5183254567,7715942195,3,Payment Options,/billing/Payment-Options/10069,,,agent16,Billing,Payment Options,10069,72
+2024-05-18 08:59:00+00:00,1459218014,2277296376,3,Network Diagnostics,/network/Network-Diagnostics/10073,1,event8,agent10,Network,Network Diagnostics,10073,238
+2024-05-18 08:59:00+00:00,3083898018,6732268601,5,Account Closure,/account/Account-Closure/10089,1,event4,agent09,Account,Account Closure,10089,298
+2024-05-18 08:59:00+00:00,5580035074,7664061192,4,Eligibility Check,/upgrades/Eligibility-Check/10113,,,agent05,Upgrades,Eligibility Check,10113,284
+2024-05-18 08:59:00+00:00,1873342811,6411568226,1,Upgrade Device,/upgrades/Upgrade-Device/10173,1,event4,agent04,Upgrades,Upgrade Device,10173,105
+2024-05-18 08:59:00+00:00,1776007046,1746358269,2,Redeem Perks,/plans & perks/Redeem-Perks/10196,,,agent04,Plans & Perks,Redeem Perks,10196,265
+2024-05-18 08:59:00+00:00,3590101611,7575729951,2,Phone Upgrade Options,/device/Phone-Upgrade-Options/10222,,,agent04,Device,Phone Upgrade Options,10222,177
+2024-05-18 08:59:00+00:00,2213698249,8926779021,2,Redeem Perks,/plans & perks/Redeem-Perks/10303,,,agent18,Plans & Perks,Redeem Perks,10303,173
+2024-05-18 08:59:01+00:00,8350264861,2325741433,4,Update Contact Information,/account/Update-Contact-Information/10061,,,agent09,Account,Update Contact Information,10061,145
+2024-05-18 08:59:01+00:00,7705539709,4597038886,4,Firmware Update,/device/Firmware-Update/10117,,,agent07,Device,Firmware Update,10117,41
+2024-05-18 08:59:01+00:00,7456724873,4937694571,4,Troubleshooting Guide,/device/Troubleshooting-Guide/10226,1,event9,agent17,Device,Troubleshooting Guide,10226,80
+2024-05-18 08:59:01+00:00,4501514343,1469073294,4,Compare Plans,/plans & perks/Compare-Plans/10470,1,event8,agent01,Plans & Perks,Compare Plans,10470,101
+2024-05-18 08:59:02+00:00,2212042405,9472697874,5,Redeem Perks,/plans & perks/Redeem-Perks/10000,1,event5,agent01,Plans & Perks,Redeem Perks,10000,44
+2024-05-18 08:59:02+00:00,1815850792,5875571693,5,Update Contact Information,/account/Update-Contact-Information/10029,,,agent15,Account,Update Contact Information,10029,106
+2024-05-18 08:59:02+00:00,9578214317,5094286845,4,Device Usage,/device/Device-Usage/10030,,,agent01,Device,Device Usage,10030,106
+2024-05-18 08:59:02+00:00,6080207331,8542388707,2,Plan Features,/plans & perks/Plan-Features/10091,1,event8,agent13,Plans & Perks,Plan Features,10091,64
+2024-05-18 08:59:02+00:00,2671404467,8925762154,5,International Roaming Charges,/billing/International-Roaming-Charges/10141,1,event9,agent20,Billing,International Roaming Charges,10141,250
+2024-05-18 08:59:02+00:00,4996564990,8874204998,2,Notification Settings,/account/Notification-Settings/10172,1,event1,agent04,Account,Notification Settings,10172,249
+2024-05-18 08:59:02+00:00,1402327056,9192416505,2,Upgrade Plan,/upgrades/Upgrade-Plan/10174,1,event4,agent16,Upgrades,Upgrade Plan,10174,202
+2024-05-18 08:59:02+00:00,3759788602,4441755031,1,Redeem Perks,/plans & perks/Redeem-Perks/10269,1,event9,agent20,Plans & Perks,Redeem Perks,10269,219
+2024-05-18 08:59:02+00:00,6370072084,1547818682,4,Eligibility Check,/upgrades/Eligibility-Check/10401,1,event1,agent03,Upgrades,Eligibility Check,10401,285
+2024-05-18 08:59:02+00:00,8946088863,5650133854,2,Network Diagnostics,/network/Network-Diagnostics/10409,,,agent02,Network,Network Diagnostics,10409,236
+2024-05-18 08:59:03+00:00,7018528412,8062184792,5,Compare Plans,/plans & perks/Compare-Plans/10066,,,agent20,Plans & Perks,Compare Plans,10066,100
+2024-05-18 08:59:03+00:00,4824259731,6746153600,1,Plan Features,/plans & perks/Plan-Features/10178,1,event3,agent04,Plans & Perks,Plan Features,10178,121
+2024-05-18 08:59:03+00:00,7120004844,8945526900,1,Account Security,/account/Account-Security/10229,,,agent14,Account,Account Security,10229,79
+2024-05-18 08:59:03+00:00,9063450415,9999493370,4,Account Security,/account/Account-Security/10290,,,agent12,Account,Account Security,10290,211
+2024-05-18 08:59:03+00:00,6890053692,7138856943,3,Eligibility Check,/upgrades/Eligibility-Check/10301,1,event1,agent09,Upgrades,Eligibility Check,10301,87
+2024-05-18 08:59:03+00:00,5620932082,9638925221,1,Speed Test Results,/network/Speed-Test-Results/10330,1,event1,agent14,Network,Speed Test Results,10330,35
+2024-05-18 08:59:03+00:00,1986718393,5681958500,5,Account Security,/account/Account-Security/10353,,,agent11,Account,Account Security,10353,162
+2024-05-18 08:59:03+00:00,6188379370,8641167600,5,Upgrade Plan,/upgrades/Upgrade-Plan/10447,1,event8,agent13,Upgrades,Upgrade Plan,10447,110
+2024-05-18 08:59:03+00:00,8637102559,4943158182,1,Device Reset,/device/Device-Reset/10455,,,agent10,Device,Device Reset,10455,162
+2024-05-18 08:59:04+00:00,1898249785,1388708607,5,Account Security,/account/Account-Security/10071,1,event5,agent05,Account,Account Security,10071,114
+2024-05-18 08:59:04+00:00,6993785199,5439557296,5,Upgrade Device,/upgrades/Upgrade-Device/10098,1,event2,agent10,Upgrades,Upgrade Device,10098,80
+2024-05-18 08:59:04+00:00,7154644082,7841466392,5,Payment Options,/billing/Payment-Options/10135,,,agent10,Billing,Payment Options,10135,61
+2024-05-18 08:59:04+00:00,7708703205,8480019268,2,Invoice Details,/billing/Invoice-Details/10149,,,agent16,Billing,Invoice Details,10149,97
+2024-05-18 08:59:04+00:00,2921923374,2633074926,1,Eligibility Check,/upgrades/Eligibility-Check/10195,,,agent14,Upgrades,Eligibility Check,10195,249
+2024-05-18 08:59:04+00:00,3674131477,9165549528,4,Update Contact Information,/account/Update-Contact-Information/10266,,,agent10,Account,Update Contact Information,10266,277
+2024-05-18 08:59:04+00:00,2046373671,3485827236,5,Compare Plans,/plans & perks/Compare-Plans/10308,1,event8,agent17,Plans & Perks,Compare Plans,10308,125
+2024-05-18 08:59:04+00:00,8280232442,5208375459,3,Eligibility Check,/upgrades/Eligibility-Check/10322,1,event2,agent17,Upgrades,Eligibility Check,10322,253
+2024-05-18 08:59:04+00:00,5960373372,8372525146,4,Payment Options,/billing/Payment-Options/10348,,,agent05,Billing,Payment Options,10348,123
+2024-05-18 08:59:04+00:00,8238847427,4452870297,3,Compare Plans,/plans & perks/Compare-Plans/10463,,,agent05,Plans & Perks,Compare Plans,10463,119
+2024-05-18 08:59:04+00:00,3655395412,9308220492,4,Network Optimization Settings,/network/Network-Optimization-Settings/10496,1,event8,agent03,Network,Network Optimization Settings,10496,49
+2024-05-18 08:59:05+00:00,8259653510,1022535435,2,Speed Test Results,/network/Speed-Test-Results/10104,,,agent18,Network,Speed Test Results,10104,134
+2024-05-18 08:59:05+00:00,1164884844,8396280632,2,Network Optimization Settings,/network/Network-Optimization-Settings/10122,1,event6,agent16,Network,Network Optimization Settings,10122,233
+2024-05-18 08:59:05+00:00,5792845729,7453147502,5,Payment Options,/billing/Payment-Options/10335,,,agent19,Billing,Payment Options,10335,220
+2024-05-18 08:59:05+00:00,4421744762,3781934069,5,Billing Details,/billing/Billing-Details/10342,1,event10,agent19,Billing,Billing Details,10342,116
+2024-05-18 08:59:05+00:00,4841129604,9173233888,2,Account Closure,/account/Account-Closure/10453,,,agent14,Account,Account Closure,10453,109
+2024-05-18 08:59:06+00:00,4358077959,3880407149,3,Device Reset,/device/Device-Reset/10350,,,agent02,Device,Device Reset,10350,41
+2024-05-18 08:59:06+00:00,3635516663,9176889556,1,Redeem Perks,/plans & perks/Redeem-Perks/10486,,,agent14,Plans & Perks,Redeem Perks,10486,249
+2024-05-18 08:59:07+00:00,6745678353,4649401619,1,Device Details,/device/Device-Details/10022,1,event9,agent18,Device,Device Details,10022,35
+2024-05-18 08:59:07+00:00,3811602503,5630280683,1,Network Troubleshooting Tips,/network/Network-Troubleshooting-Tips/10058,,,agent01,Network,Network Troubleshooting Tips,10058,113
+2024-05-18 08:59:07+00:00,1839830079,9036468985,3,Payment Options,/billing/Payment-Options/10139,1,event7,agent16,Billing,Payment Options,10139,261
+2024-05-18 08:59:07+00:00,8739970355,5807577850,2,Customer Dashboard,/billing/Customer-Dashboard/10162,,,agent20,Billing,Customer Dashboard,10162,34
+2024-05-18 08:59:07+00:00,1144637283,9935870588,2,Device Replacement Options,/account/Device-Replacement-Options/10380,1,event3,agent12,Account,Device Replacement Options,10380,52
+2024-05-18 08:59:07+00:00,9402770454,2687184844,2,Phone Upgrade Options,/device/Phone-Upgrade-Options/10482,,,agent09,Device,Phone Upgrade Options,10482,90
+2024-05-18 08:59:08+00:00,4555233712,3026199223,3,Device Replacement Options,/account/Device-Replacement-Options/10050,1,event4,agent19,Account,Device Replacement Options,10050,152
+2024-05-18 08:59:08+00:00,5401231989,6921890632,1,Network Diagnostics,/network/Network-Diagnostics/10127,1,event10,agent16,Network,Network Diagnostics,10127,261
+2024-05-18 08:59:08+00:00,7283916757,3667702506,3,Device Details,/device/Device-Details/10232,1,event4,agent17,Device,Device Details,10232,217
+2024-05-18 08:59:08+00:00,8857984421,3807617641,5,Compare Plans,/plans & perks/Compare-Plans/10286,,,agent19,Plans & Perks,Compare Plans,10286,161
+2024-05-18 08:59:08+00:00,1583239132,2692220098,4,Account Security,/account/Account-Security/10288,1,event8,agent12,Account,Account Security,10288,182
+2024-05-18 08:59:08+00:00,5464046651,5134691923,1,Plan Features,/plans & perks/Plan-Features/10292,,,agent01,Plans & Perks,Plan Features,10292,202
+2024-05-18 08:59:08+00:00,8434178569,3166732573,2,Compare Plans,/plans & perks/Compare-Plans/10334,1,event8,agent08,Plans & Perks,Compare Plans,10334,241
+2024-05-18 08:59:08+00:00,4304155727,9418857005,4,Eligibility Check,/upgrades/Eligibility-Check/10349,,,agent15,Upgrades,Eligibility Check,10349,193
+2024-05-18 08:59:08+00:00,5895333490,8546262399,1,Update Contact Information,/account/Update-Contact-Information/10357,,,agent14,Account,Update Contact Information,10357,267
+2024-05-18 08:59:08+00:00,9780171450,6077322140,1,Device Reset,/device/Device-Reset/10403,,,agent17,Device,Device Reset,10403,39
+2024-05-18 08:59:09+00:00,4475457758,6284349856,5,Plan Features,/plans & perks/Plan-Features/10082,1,event10,agent17,Plans & Perks,Plan Features,10082,222
+2024-05-18 08:59:09+00:00,3730047374,8427544274,2,Payment History,/billing/Payment-History/10085,1,event8,agent13,Billing,Payment History,10085,184
+2024-05-18 08:59:09+00:00,3455901401,4308594587,3,Device Reset,/device/Device-Reset/10168,1,event7,agent12,Device,Device Reset,10168,115
+2024-05-18 08:59:09+00:00,6020106584,8437918922,5,Redeem Perks,/plans & perks/Redeem-Perks/10215,1,event8,agent15,Plans & Perks,Redeem Perks,10215,207
+2024-05-18 08:59:09+00:00,9187543455,9823903977,3,Device Details,/device/Device-Details/10220,1,event2,agent02,Device,Device Details,10220,232
+2024-05-18 08:59:09+00:00,3916394818,7784668676,1,Phone Upgrade Options,/device/Phone-Upgrade-Options/10248,,,agent02,Device,Phone Upgrade Options,10248,226
+2024-05-18 08:59:09+00:00,2116774118,3055845192,4,Network Troubleshooting Tips,/network/Network-Troubleshooting-Tips/10356,1,event8,agent11,Network,Network Troubleshooting Tips,10356,72
+2024-05-18 08:59:09+00:00,8964965592,8717028449,5,Account Security,/account/Account-Security/10430,,,agent04,Account,Account Security,10430,107
+2024-05-18 08:59:09+00:00,3976750428,9431070029,2,Upgrade Device,/upgrades/Upgrade-Device/10431,1,event3,agent15,Upgrades,Upgrade Device,10431,63
+2024-05-18 08:59:09+00:00,1632184142,6764258903,5,Redeem Perks,/plans & perks/Redeem-Perks/10435,,,agent02,Plans & Perks,Redeem Perks,10435,50
+2024-05-18 08:59:10+00:00,4341882596,9945522191,5,Firmware Update,/device/Firmware-Update/10004,1,event8,agent06,Device,Firmware Update,10004,123
+2024-05-18 08:59:10+00:00,1627849062,6305294872,2,Device Details,/device/Device-Details/10044,1,event1,agent20,Device,Device Details,10044,275
+2024-05-18 08:59:10+00:00,9731603657,5523285721,5,Upgrade Plan,/upgrades/Upgrade-Plan/10154,,,agent16,Upgrades,Upgrade Plan,10154,44
+2024-05-18 08:59:10+00:00,8047801495,7564544580,3,Device Usage,/device/Device-Usage/10186,1,event6,agent05,Device,Device Usage,10186,38
+2024-05-18 08:59:10+00:00,1591358013,6360093551,5,Troubleshooting Guide,/device/Troubleshooting-Guide/10211,1,event6,agent02,Device,Troubleshooting Guide,10211,187
+2024-05-18 08:59:10+00:00,3358789012,9309871172,5,Device Compatibility List,/device/Device-Compatibility-List/10366,1,event7,agent12,Device,Device Compatibility List,10366,264
+2024-05-18 08:59:10+00:00,8501060234,5547344128,1,Account Closure,/account/Account-Closure/10388,1,event9,agent09,Account,Account Closure,10388,43
+2024-05-18 08:59:10+00:00,7388223558,9625550199,3,Eligibility Check,/upgrades/Eligibility-Check/10434,,,agent04,Upgrades,Eligibility Check,10434,147
+2024-05-18 08:59:10+00:00,3286599156,7189551816,4,Redeem Perks,/plans & perks/Redeem-Perks/10477,,,agent01,Plans & Perks,Redeem Perks,10477,262
+2024-05-18 08:59:11+00:00,5990965990,2952802807,3,Troubleshooting Guide,/device/Troubleshooting-Guide/10067,1,event4,agent08,Device,Troubleshooting Guide,10067,228
+2024-05-18 08:59:11+00:00,1198097488,6675953892,4,Compare Plans,/plans & perks/Compare-Plans/10081,,,agent04,Plans & Perks,Compare Plans,10081,235
+2024-05-18 08:59:11+00:00,5349515427,3322816356,5,Notification Settings,/account/Notification-Settings/10225,1,event6,agent03,Account,Notification Settings,10225,180
+2024-05-18 08:59:11+00:00,1474619118,7327393240,2,Device Details,/device/Device-Details/10392,1,event3,agent05,Device,Device Details,10392,185
+2024-05-18 08:59:11+00:00,5158203283,5222352818,2,Device Replacement Options,/account/Device-Replacement-Options/10442,1,event10,agent04,Account,Device Replacement Options,10442,269
+2024-05-18 08:59:11+00:00,1160302993,5454876294,2,Compare Plans,/plans & perks/Compare-Plans/10459,1,event3,agent14,Plans & Perks,Compare Plans,10459,219
+2024-05-18 08:59:11+00:00,8885118740,4721080524,2,Device Compatibility List,/device/Device-Compatibility-List/10491,1,event10,agent13,Device,Device Compatibility List,10491,53
+2024-05-18 08:59:12+00:00,8662169815,6026482981,2,Customer Dashboard,/billing/Customer-Dashboard/10001,1,event7,agent04,Billing,Customer Dashboard,10001,244
+2024-05-18 08:59:12+00:00,1283790862,6679864499,5,Plan Features,/plans & perks/Plan-Features/10018,1,event3,agent07,Plans & Perks,Plan Features,10018,46
+2024-05-18 08:59:12+00:00,9472288565,6551087523,2,Network Usage History,/network/Network-Usage-History/10074,1,event4,agent17,Network,Network Usage History,10074,255
+2024-05-18 08:59:12+00:00,2405893774,6020797781,4,Device Details,/device/Device-Details/10076,,,agent01,Device,Device Details,10076,173
+2024-05-18 08:59:12+00:00,8496541265,6671457311,5,Eligibility Check,/upgrades/Eligibility-Check/10233,,,agent01,Upgrades,Eligibility Check,10233,188
+2024-05-18 08:59:12+00:00,6065827793,4756215358,4,Compare Plans,/plans & perks/Compare-Plans/10255,1,event2,agent15,Plans & Perks,Compare Plans,10255,259
+2024-05-18 08:59:12+00:00,6205163477,3779259509,4,Device Compatibility List,/device/Device-Compatibility-List/10314,,,agent15,Device,Device Compatibility List,10314,148
+2024-05-18 08:59:12+00:00,5357965473,9736729006,2,Device Details,/device/Device-Details/10339,1,event5,agent02,Device,Device Details,10339,167
+2024-05-18 08:59:12+00:00,6639544111,4453240945,4,Network Optimization Settings,/network/Network-Optimization-Settings/10415,,,agent02,Network,Network Optimization Settings,10415,105
+2024-05-18 08:59:12+00:00,5052051764,9876730267,5,Redeem Perks,/plans & perks/Redeem-Perks/10418,1,event1,agent08,Plans & Perks,Redeem Perks,10418,51
+2024-05-18 08:59:12+00:00,7456146391,2007486097,1,Account Overview,/account/Account-Overview/10432,1,event9,agent05,Account,Account Overview,10432,285
+2024-05-18 08:59:13+00:00,7334691554,9691499507,4,Upgrade Plan,/upgrades/Upgrade-Plan/10010,,,agent11,Upgrades,Upgrade Plan,10010,98
+2024-05-18 08:59:13+00:00,3217769413,4460609771,3,Upgrade Device,/upgrades/Upgrade-Device/10062,1,event10,agent08,Upgrades,Upgrade Device,10062,298
+2024-05-18 08:59:13+00:00,7800161396,4311418073,1,Redeem Perks,/plans & perks/Redeem-Perks/10087,1,event4,agent05,Plans & Perks,Redeem Perks,10087,133
+2024-05-18 08:59:13+00:00,3984224237,3423114547,5,Plan Features,/plans & perks/Plan-Features/10151,,,agent20,Plans & Perks,Plan Features,10151,263
+2024-05-18 08:59:13+00:00,7567346721,1813267934,1,Upgrade Device,/upgrades/Upgrade-Device/10166,,,agent19,Upgrades,Upgrade Device,10166,209
+2024-05-18 08:59:13+00:00,4807293462,5294428143,1,Firmware Update,/device/Firmware-Update/10276,1,event10,agent07,Device,Firmware Update,10276,182
+2024-05-18 08:59:13+00:00,7285089069,9485529825,2,Customer Dashboard,/billing/Customer-Dashboard/10325,,,agent02,Billing,Customer Dashboard,10325,99
+2024-05-18 08:59:13+00:00,6569256103,2260887001,2,Payment Options,/billing/Payment-Options/10472,,,agent11,Billing,Payment Options,10472,269
+2024-05-18 08:59:13+00:00,7638068627,9921224866,5,Update Contact Information,/account/Update-Contact-Information/10485,,,agent17,Account,Update Contact Information,10485,180
+2024-05-18 08:59:14+00:00,7517978387,6329325967,4,Firmware Update,/device/Firmware-Update/10037,1,event9,agent13,Device,Firmware Update,10037,108
+2024-05-18 08:59:14+00:00,4511775403,6029415099,1,Device Details,/device/Device-Details/10124,1,event2,agent13,Device,Device Details,10124,107
+2024-05-18 08:59:14+00:00,9619545769,5458245085,4,Upgrade Device,/upgrades/Upgrade-Device/10190,1,event9,agent10,Upgrades,Upgrade Device,10190,112
+2024-05-18 08:59:14+00:00,9524003657,8391445909,1,Network Optimization Settings,/network/Network-Optimization-Settings/10316,1,event2,agent09,Network,Network Optimization Settings,10316,250
+2024-05-18 08:59:14+00:00,9349355090,4818116984,4,Redeem Perks,/plans & perks/Redeem-Perks/10389,,,agent08,Plans & Perks,Redeem Perks,10389,193
+2024-05-18 08:59:14+00:00,4916273646,9614882784,5,Payment Options,/billing/Payment-Options/10396,1,event7,agent19,Billing,Payment Options,10396,236
+2024-05-18 08:59:14+00:00,2817024448,6258982186,5,Payment History,/billing/Payment-History/10417,1,event9,agent11,Billing,Payment History,10417,55
+2024-05-18 08:59:14+00:00,4228113431,4536127225,1,Upgrade Plan,/upgrades/Upgrade-Plan/10483,1,event8,agent20,Upgrades,Upgrade Plan,10483,175
+2024-05-18 08:59:15+00:00,7636425387,7082866213,2,Update Contact Information,/account/Update-Contact-Information/10014,,,agent12,Account,Update Contact Information,10014,70
+2024-05-18 08:59:15+00:00,5721242558,2875423068,3,Speed Test Results,/network/Speed-Test-Results/10035,1,event4,agent03,Network,Speed Test Results,10035,225
+2024-05-18 08:59:15+00:00,9498089256,8959802267,1,Billing Details,/billing/Billing-Details/10125,,,agent11,Billing,Billing Details,10125,274
+2024-05-18 08:59:15+00:00,6030366334,7067457485,2,Update Contact Information,/account/Update-Contact-Information/10313,1,event6,agent15,Account,Update Contact Information,10313,232
+2024-05-18 08:59:15+00:00,6025759906,5926701130,1,Network Usage History,/network/Network-Usage-History/10365,,,agent14,Network,Network Usage History,10365,192
+2024-05-18 08:59:15+00:00,5566783986,3474454595,2,Speed Test Results,/network/Speed-Test-Results/10488,,,agent08,Network,Speed Test Results,10488,30
+2024-05-18 08:59:16+00:00,3081884562,2674532569,4,Dispute Charge,/billing/Dispute-Charge/10051,1,event10,agent08,Billing,Dispute Charge,10051,270
+2024-05-18 08:59:16+00:00,9217945740,4385921397,4,Compare Plans,/plans & perks/Compare-Plans/10059,,,agent14,Plans & Perks,Compare Plans,10059,265
+2024-05-18 08:59:16+00:00,4230995539,9504129583,2,Device Usage,/device/Device-Usage/10148,,,agent04,Device,Device Usage,10148,143
+2024-05-18 08:59:16+00:00,4025497669,6684466896,4,Upgrade Plan,/upgrades/Upgrade-Plan/10153,,,agent14,Upgrades,Upgrade Plan,10153,117
+2024-05-18 08:59:16+00:00,8204571459,6812350575,3,Customer Dashboard,/billing/Customer-Dashboard/10164,,,agent07,Billing,Customer Dashboard,10164,95
+2024-05-18 08:59:16+00:00,4524705028,3619480846,1,Redeem Perks,/plans & perks/Redeem-Perks/10170,1,event7,agent03,Plans & Perks,Redeem Perks,10170,199
+2024-05-18 08:59:16+00:00,7048247576,2522108586,5,Eligibility Check,/upgrades/Eligibility-Check/10256,,,agent12,Upgrades,Eligibility Check,10256,154
+2024-05-18 08:59:16+00:00,9533526690,2199837319,1,Network Diagnostics,/network/Network-Diagnostics/10282,1,event3,agent12,Network,Network Diagnostics,10282,100
+2024-05-18 08:59:16+00:00,8520702865,1315158837,5,Network Diagnostics,/network/Network-Diagnostics/10364,,,agent06,Network,Network Diagnostics,10364,252
+2024-05-18 08:59:16+00:00,8456633771,9000274475,2,Invoice Details,/billing/Invoice-Details/10422,1,event5,agent18,Billing,Invoice Details,10422,299
+2024-05-18 08:59:16+00:00,7431628611,4838900734,5,Firmware Update,/device/Firmware-Update/10448,,,agent11,Device,Firmware Update,10448,127
+2024-05-18 08:59:17+00:00,2261377172,7580494765,3,Device Replacement Options,/account/Device-Replacement-Options/10210,,,agent13,Account,Device Replacement Options,10210,225
+2024-05-18 08:59:17+00:00,4775732893,4814550776,5,Invoice Details,/billing/Invoice-Details/10251,1,event10,agent15,Billing,Invoice Details,10251,77
+2024-05-18 08:59:17+00:00,3757674159,8535126844,5,Upgrade Device,/upgrades/Upgrade-Device/10294,1,event7,agent07,Upgrades,Upgrade Device,10294,106
+2024-05-18 08:59:17+00:00,6711753439,9718474993,5,Coverage Map,/network/Coverage-Map/10299,1,event8,agent09,Network,Coverage Map,10299,146
+2024-05-18 08:59:17+00:00,5914459665,5274083799,5,Redeem Perks,/plans & perks/Redeem-Perks/10367,,,agent17,Plans & Perks,Redeem Perks,10367,144
+2024-05-18 08:59:17+00:00,5642771209,1047719690,3,Account Closure,/account/Account-Closure/10484,1,event6,agent03,Account,Account Closure,10484,92
+2024-05-18 08:59:18+00:00,4898591099,3801698841,2,Customer Dashboard,/billing/Customer-Dashboard/10020,1,event6,agent12,Billing,Customer Dashboard,10020,207
+2024-05-18 08:59:18+00:00,3936161552,4606629529,2,Redeem Perks,/plans & perks/Redeem-Perks/10046,,,agent09,Plans & Perks,Redeem Perks,10046,119
+2024-05-18 08:59:18+00:00,3050567806,6872655460,3,Billing Details,/billing/Billing-Details/10156,1,event3,agent14,Billing,Billing Details,10156,257
+2024-05-18 08:59:18+00:00,4248043266,3313032455,3,Payment Options,/billing/Payment-Options/10165,1,event5,agent11,Billing,Payment Options,10165,135
+2024-05-18 08:59:18+00:00,8068756461,8610380247,2,Upgrade Plan,/upgrades/Upgrade-Plan/10175,,,agent04,Upgrades,Upgrade Plan,10175,244
+2024-05-18 08:59:18+00:00,5815511337,4209471382,4,Redeem Perks,/plans & perks/Redeem-Perks/10197,1,event4,agent13,Plans & Perks,Redeem Perks,10197,179
+2024-05-18 08:59:18+00:00,3206917657,7204246304,3,Network Usage History,/network/Network-Usage-History/10332,,,agent03,Network,Network Usage History,10332,124
+2024-05-18 08:59:18+00:00,4122171287,9802930428,4,Payment History,/billing/Payment-History/10340,,,agent14,Billing,Payment History,10340,182
+2024-05-18 08:59:18+00:00,1041681228,7590034822,4,Plan Features,/plans & perks/Plan-Features/10382,,,agent03,Plans & Perks,Plan Features,10382,201
+2024-05-18 08:59:18+00:00,2668251390,8539195342,3,Upgrade Device,/upgrades/Upgrade-Device/10383,,,agent18,Upgrades,Upgrade Device,10383,284
+2024-05-18 08:59:18+00:00,4085678962,3971993835,5,Account Overview,/account/Account-Overview/10393,1,event10,agent07,Account,Account Overview,10393,60
+2024-05-18 08:59:19+00:00,6237120913,7168264168,3,Upgrade Plan,/upgrades/Upgrade-Plan/10016,1,event5,agent19,Upgrades,Upgrade Plan,10016,100
+2024-05-18 08:59:19+00:00,4157758609,3827622677,2,Network Diagnostics,/network/Network-Diagnostics/10111,1,event4,agent03,Network,Network Diagnostics,10111,257
+2024-05-18 08:59:19+00:00,6368946620,2534058708,1,International Roaming Charges,/billing/International-Roaming-Charges/10116,1,event2,agent15,Billing,International Roaming Charges,10116,164
+2024-05-18 08:59:19+00:00,3966490621,2352973922,5,Speed Test Results,/network/Speed-Test-Results/10121,,,agent18,Network,Speed Test Results,10121,189
+2024-05-18 08:59:19+00:00,1871782639,7425495959,2,Eligibility Check,/upgrades/Eligibility-Check/10169,,,agent06,Upgrades,Eligibility Check,10169,281
+2024-05-18 08:59:19+00:00,9265233436,4155035589,5,Device Replacement Options,/account/Device-Replacement-Options/10218,1,event8,agent17,Account,Device Replacement Options,10218,30
+2024-05-18 08:59:19+00:00,1541006528,8490821017,1,Redeem Perks,/plans & perks/Redeem-Perks/10219,1,event4,agent11,Plans & Perks,Redeem Perks,10219,155
+2024-05-18 08:59:19+00:00,4298775368,5389954560,2,Redeem Perks,/plans & perks/Redeem-Perks/10223,,,agent13,Plans & Perks,Redeem Perks,10223,223
+2024-05-18 08:59:19+00:00,3272162997,8355687160,3,Dispute Charge,/billing/Dispute-Charge/10241,1,event7,agent06,Billing,Dispute Charge,10241,270
+2024-05-18 08:59:19+00:00,7176512703,2073217063,1,Notification Settings,/account/Notification-Settings/10258,1,event2,agent07,Account,Notification Settings,10258,45
+2024-05-18 08:59:19+00:00,2609196795,9053902349,1,Network Diagnostics,/network/Network-Diagnostics/10327,1,event7,agent14,Network,Network Diagnostics,10327,217
+2024-05-18 08:59:19+00:00,1803569899,4399181910,2,Upgrade Plan,/upgrades/Upgrade-Plan/10347,1,event2,agent19,Upgrades,Upgrade Plan,10347,106
+2024-05-18 08:59:19+00:00,8144926933,7786350748,4,Compare Plans,/plans & perks/Compare-Plans/10419,,,agent15,Plans & Perks,Compare Plans,10419,44
+2024-05-18 08:59:19+00:00,5813863449,1035215578,1,Eligibility Check,/upgrades/Eligibility-Check/10464,1,event9,agent17,Upgrades,Eligibility Check,10464,239
+2024-05-18 08:59:19+00:00,9637127408,8501815934,1,Speed Test Results,/network/Speed-Test-Results/10465,,,agent16,Network,Speed Test Results,10465,44
+2024-05-18 08:59:20+00:00,1543018384,9525585430,2,Coverage Map,/network/Coverage-Map/10039,1,event6,agent12,Network,Coverage Map,10039,118
+2024-05-18 08:59:20+00:00,7993854210,8473880619,3,Compare Plans,/plans & perks/Compare-Plans/10112,,,agent10,Plans & Perks,Compare Plans,10112,70
+2024-05-18 08:59:20+00:00,5582147647,2919586987,1,Payment Options,/billing/Payment-Options/10158,,,agent01,Billing,Payment Options,10158,150
+2024-05-18 08:59:20+00:00,8133056624,9150402717,1,Compare Plans,/plans & perks/Compare-Plans/10198,,,agent18,Plans & Perks,Compare Plans,10198,258
+2024-05-18 08:59:20+00:00,8104742407,8099646587,2,Device Reset,/device/Device-Reset/10242,,,agent06,Device,Device Reset,10242,287
+2024-05-18 08:59:20+00:00,4877390599,1291883542,4,Compare Plans,/plans & perks/Compare-Plans/10285,1,event2,agent10,Plans & Perks,Compare Plans,10285,81
+2024-05-18 08:59:20+00:00,8581567869,9333916969,2,Notification Settings,/account/Notification-Settings/10311,1,event4,agent10,Account,Notification Settings,10311,248
+2024-05-18 08:59:20+00:00,4069020729,3056366789,5,Upgrade Device,/upgrades/Upgrade-Device/10433,1,event10,agent01,Upgrades,Upgrade Device,10433,147
+2024-05-18 08:59:20+00:00,7929634314,9833904909,5,Plan Features,/plans & perks/Plan-Features/10437,,,agent10,Plans & Perks,Plan Features,10437,201
+2024-05-18 08:59:21+00:00,6344195492,2493551165,4,Upgrade Device,/upgrades/Upgrade-Device/10136,,,agent05,Upgrades,Upgrade Device,10136,211
+2024-05-18 08:59:21+00:00,6954746699,5634629651,1,Device Compatibility List,/device/Device-Compatibility-List/10253,,,agent13,Device,Device Compatibility List,10253,185
+2024-05-18 08:59:21+00:00,9522363620,5062809714,3,Device Replacement Options,/account/Device-Replacement-Options/10261,1,event7,agent17,Account,Device Replacement Options,10261,110
+2024-05-18 08:59:21+00:00,5874300192,2789204234,3,Device Replacement Options,/account/Device-Replacement-Options/10302,1,event3,agent03,Account,Device Replacement Options,10302,206
+2024-05-18 08:59:21+00:00,4590666724,5816371918,3,Eligibility Check,/upgrades/Eligibility-Check/10451,,,agent01,Upgrades,Eligibility Check,10451,30
+2024-05-18 08:59:22+00:00,5562154721,1523554351,2,Plan Features,/plans & perks/Plan-Features/10025,,,agent02,Plans & Perks,Plan Features,10025,251
+2024-05-18 08:59:22+00:00,5291538227,6422971600,3,Device Compatibility List,/device/Device-Compatibility-List/10138,1,event6,agent06,Device,Device Compatibility List,10138,206
+2024-05-18 08:59:22+00:00,9066470853,2908982899,5,Payment Options,/billing/Payment-Options/10184,,,agent05,Billing,Payment Options,10184,164
+2024-05-18 08:59:22+00:00,9363947731,1041862976,5,Compare Plans,/plans & perks/Compare-Plans/10203,,,agent01,Plans & Perks,Compare Plans,10203,257
+2024-05-18 08:59:22+00:00,5621608456,7565357611,1,Plan Features,/plans & perks/Plan-Features/10443,1,event10,agent07,Plans & Perks,Plan Features,10443,54
+2024-05-18 08:59:22+00:00,3454150711,6531806445,5,Device Reset,/device/Device-Reset/10461,1,event7,agent03,Device,Device Reset,10461,169
+2024-05-18 08:59:23+00:00,3552164194,4563911002,5,Upgrade Device,/upgrades/Upgrade-Device/10064,1,event9,agent13,Upgrades,Upgrade Device,10064,118
+2024-05-18 08:59:23+00:00,3392699333,7163408503,3,Billing Details,/billing/Billing-Details/10106,1,event3,agent15,Billing,Billing Details,10106,244
+2024-05-18 08:59:23+00:00,1082401347,9061081663,3,Plan Features,/plans & perks/Plan-Features/10191,,,agent04,Plans & Perks,Plan Features,10191,101
+2024-05-18 08:59:23+00:00,6051776850,7479108447,4,Compare Plans,/plans & perks/Compare-Plans/10230,1,event4,agent18,Plans & Perks,Compare Plans,10230,205
+2024-05-18 08:59:23+00:00,5704048433,2586234284,2,Device Compatibility List,/device/Device-Compatibility-List/10249,,,agent17,Device,Device Compatibility List,10249,285
+2024-05-18 08:59:23+00:00,7485159548,5130217625,3,Account Closure,/account/Account-Closure/10259,1,event10,agent05,Account,Account Closure,10259,158
+2024-05-18 08:59:23+00:00,6076914269,2847410209,5,Account Closure,/account/Account-Closure/10273,1,event2,agent13,Account,Account Closure,10273,227
+2024-05-18 08:59:23+00:00,2487745288,5365098465,2,Troubleshooting Guide,/device/Troubleshooting-Guide/10315,,,agent06,Device,Troubleshooting Guide,10315,170
+2024-05-18 08:59:23+00:00,6724134714,4360509408,4,Device Details,/device/Device-Details/10337,,,agent18,Device,Device Details,10337,80
+2024-05-18 08:59:23+00:00,8145232485,1701950908,3,Notification Settings,/account/Notification-Settings/10352,,,agent17,Account,Notification Settings,10352,69
+2024-05-18 08:59:23+00:00,5126128121,6841017205,2,Device Details,/device/Device-Details/10373,1,event6,agent04,Device,Device Details,10373,95
+2024-05-18 08:59:23+00:00,7837640129,4921641117,2,Update Contact Information,/account/Update-Contact-Information/10379,,,agent05,Account,Update Contact Information,10379,50
+2024-05-18 08:59:24+00:00,7279262962,1028244829,4,Account Closure,/account/Account-Closure/10234,1,event9,agent18,Account,Account Closure,10234,195
+2024-05-18 08:59:24+00:00,5025331869,7466466846,4,Troubleshooting Guide,/device/Troubleshooting-Guide/10321,1,event3,agent10,Device,Troubleshooting Guide,10321,203
+2024-05-18 08:59:24+00:00,2049013360,8176276137,2,Device Usage,/device/Device-Usage/10338,,,agent16,Device,Device Usage,10338,229
+2024-05-18 08:59:24+00:00,8487832385,7050368387,1,Phone Upgrade Options,/device/Phone-Upgrade-Options/10384,,,agent07,Device,Phone Upgrade Options,10384,143
+2024-05-18 08:59:24+00:00,8817973538,2056927866,3,Eligibility Check,/upgrades/Eligibility-Check/10395,1,event10,agent14,Upgrades,Eligibility Check,10395,33
+2024-05-18 08:59:24+00:00,8203694540,6074045195,4,Customer Dashboard,/billing/Customer-Dashboard/10414,,,agent19,Billing,Customer Dashboard,10414,186
+2024-05-18 08:59:25+00:00,8521165431,6582528136,1,Eligibility Check,/upgrades/Eligibility-Check/10281,,,agent05,Upgrades,Eligibility Check,10281,245
+2024-05-18 08:59:25+00:00,5885982214,4971671269,4,Compare Plans,/plans & perks/Compare-Plans/10284,1,event10,agent11,Plans & Perks,Compare Plans,10284,123
+2024-05-18 08:59:25+00:00,3131855967,3301910594,3,Eligibility Check,/upgrades/Eligibility-Check/10376,,,agent14,Upgrades,Eligibility Check,10376,130
+2024-05-18 08:59:25+00:00,1229385390,7705242335,1,Speed Test Results,/network/Speed-Test-Results/10397,,,agent09,Network,Speed Test Results,10397,47
+2024-05-18 08:59:25+00:00,1345419757,6833168289,4,Speed Test Results,/network/Speed-Test-Results/10412,1,event8,agent03,Network,Speed Test Results,10412,298
+2024-05-18 08:59:25+00:00,4296510331,9120381065,5,Billing Details,/billing/Billing-Details/10440,1,event6,agent04,Billing,Billing Details,10440,201
+2024-05-18 08:59:25+00:00,1310301677,4797356898,1,Device Usage,/device/Device-Usage/10478,1,event6,agent04,Device,Device Usage,10478,208
+2024-05-18 08:59:26+00:00,6780799534,9447601795,4,Network Troubleshooting Tips,/network/Network-Troubleshooting-Tips/10033,1,event8,agent03,Network,Network Troubleshooting Tips,10033,128
+2024-05-18 08:59:26+00:00,4571858638,1301111052,1,Payment Options,/billing/Payment-Options/10048,,,agent14,Billing,Payment Options,10048,33
+2024-05-18 08:59:26+00:00,4225783471,9746002876,3,Coverage Map,/network/Coverage-Map/10068,1,event2,agent01,Network,Coverage Map,10068,121
+2024-05-18 08:59:26+00:00,6410474478,9076089212,2,Invoice Details,/billing/Invoice-Details/10177,1,event1,agent04,Billing,Invoice Details,10177,101
+2024-05-18 08:59:26+00:00,6110071292,2588748779,4,Plan Features,/plans & perks/Plan-Features/10275,1,event5,agent09,Plans & Perks,Plan Features,10275,84
+2024-05-18 08:59:26+00:00,7467496076,7890582720,2,Device Reset,/device/Device-Reset/10283,1,event9,agent20,Device,Device Reset,10283,294
+2024-05-18 08:59:26+00:00,2364978389,2031618836,5,Device Details,/device/Device-Details/10346,1,event10,agent05,Device,Device Details,10346,284
+2024-05-18 08:59:26+00:00,4894616401,9885100771,4,Device Replacement Options,/account/Device-Replacement-Options/10497,,,agent04,Account,Device Replacement Options,10497,236
+2024-05-18 08:59:27+00:00,5557273144,4828763738,2,Network Usage History,/network/Network-Usage-History/10105,,,agent13,Network,Network Usage History,10105,161
+2024-05-18 08:59:27+00:00,4379683879,3584984141,2,Upgrade Device,/upgrades/Upgrade-Device/10254,1,event3,agent20,Upgrades,Upgrade Device,10254,199
+2024-05-18 08:59:28+00:00,1404414254,4452670630,4,Upgrade Plan,/upgrades/Upgrade-Plan/10026,,,agent03,Upgrades,Upgrade Plan,10026,143
+2024-05-18 08:59:28+00:00,3728939666,7339806740,5,Invoice Details,/billing/Invoice-Details/10040,,,agent09,Billing,Invoice Details,10040,108
+2024-05-18 08:59:28+00:00,4195338677,2409809012,2,Network Usage History,/network/Network-Usage-History/10192,,,agent04,Network,Network Usage History,10192,103
+2024-05-18 08:59:28+00:00,9661083170,5054184474,2,Device Details,/device/Device-Details/10250,,,agent07,Device,Device Details,10250,62
+2024-05-18 08:59:28+00:00,6768772107,1524860222,2,Device Reset,/device/Device-Reset/10304,1,event8,agent12,Device,Device Reset,10304,190
+2024-05-18 08:59:28+00:00,8044752733,2510990025,4,Device Reset,/device/Device-Reset/10362,,,agent16,Device,Device Reset,10362,218
+2024-05-18 08:59:29+00:00,6189333699,1272326845,1,Network Diagnostics,/network/Network-Diagnostics/10042,1,event9,agent06,Network,Network Diagnostics,10042,230
+2024-05-18 08:59:29+00:00,1152799018,6761618905,3,Compare Plans,/plans & perks/Compare-Plans/10183,,,agent08,Plans & Perks,Compare Plans,10183,299
+2024-05-18 08:59:29+00:00,5349026997,7399966758,4,Account Closure,/account/Account-Closure/10343,1,event6,agent08,Account,Account Closure,10343,158
+2024-05-18 08:59:29+00:00,4167182348,5518422230,5,Payment Options,/billing/Payment-Options/10345,,,agent06,Billing,Payment Options,10345,249
+2024-05-18 08:59:29+00:00,5505006104,9363102755,3,Account Overview,/account/Account-Overview/10354,1,event1,agent05,Account,Account Overview,10354,271
+2024-05-18 08:59:30+00:00,6771252634,8776442676,3,Phone Upgrade Options,/device/Phone-Upgrade-Options/10041,1,event10,agent02,Device,Phone Upgrade Options,10041,102
+2024-05-18 08:59:30+00:00,8185036531,7836323065,2,Upgrade Device,/upgrades/Upgrade-Device/10077,1,event10,agent01,Upgrades,Upgrade Device,10077,39
+2024-05-18 08:59:30+00:00,8685689721,1323800715,1,Eligibility Check,/upgrades/Eligibility-Check/10239,1,event8,agent10,Upgrades,Eligibility Check,10239,107
+2024-05-18 08:59:30+00:00,2807539624,9460851958,1,Compare Plans,/plans & perks/Compare-Plans/10272,1,event4,agent16,Plans & Perks,Compare Plans,10272,155
+2024-05-18 08:59:30+00:00,3618272193,7419716930,4,Device Reset,/device/Device-Reset/10287,,,agent10,Device,Device Reset,10287,186
+2024-05-18 08:59:30+00:00,3977799508,1010196792,4,Redeem Perks,/plans & perks/Redeem-Perks/10370,1,event3,agent15,Plans & Perks,Redeem Perks,10370,269
+2024-05-18 08:59:30+00:00,2097542566,2980307069,3,Eligibility Check,/upgrades/Eligibility-Check/10449,1,event7,agent01,Upgrades,Eligibility Check,10449,272
+2024-05-18 08:59:31+00:00,5131079777,6295214091,5,Device Details,/device/Device-Details/10070,,,agent03,Device,Device Details,10070,36
+2024-05-18 08:59:31+00:00,5587113827,2734041755,5,Payment Options,/billing/Payment-Options/10291,,,agent14,Billing,Payment Options,10291,48
+2024-05-18 08:59:31+00:00,8129932941,5614003130,4,Dispute Charge,/billing/Dispute-Charge/10363,,,agent09,Billing,Dispute Charge,10363,297
+2024-05-18 08:59:31+00:00,3985743158,2729944832,1,Network Optimization Settings,/network/Network-Optimization-Settings/10371,1,event8,agent12,Network,Network Optimization Settings,10371,211
+2024-05-18 08:59:32+00:00,6798992876,8967220000,1,Device Reset,/device/Device-Reset/10132,1,event9,agent17,Device,Device Reset,10132,272
+2024-05-18 08:59:32+00:00,9432668812,7109008759,2,Dispute Charge,/billing/Dispute-Charge/10187,,,agent05,Billing,Dispute Charge,10187,103
+2024-05-18 08:59:32+00:00,6541809947,2471958177,1,International Roaming Charges,/billing/International-Roaming-Charges/10319,1,event1,agent07,Billing,International Roaming Charges,10319,214
+2024-05-18 08:59:32+00:00,8640256652,7152486361,2,Account Closure,/account/Account-Closure/10360,,,agent16,Account,Account Closure,10360,258
+2024-05-18 08:59:32+00:00,3082255535,7589137621,4,Redeem Perks,/plans & perks/Redeem-Perks/10399,,,agent12,Plans & Perks,Redeem Perks,10399,106
+2024-05-18 08:59:33+00:00,1761025976,2122427088,3,Device Compatibility List,/device/Device-Compatibility-List/10179,1,event8,agent13,Device,Device Compatibility List,10179,30
+2024-05-18 08:59:33+00:00,7830460110,2626859206,5,Payment Options,/billing/Payment-Options/10341,,,agent17,Billing,Payment Options,10341,151
+2024-05-18 08:59:33+00:00,3095766505,6481076481,4,Upgrade Plan,/upgrades/Upgrade-Plan/10375,1,event5,agent12,Upgrades,Upgrade Plan,10375,277
+2024-05-18 08:59:33+00:00,5216339033,5697613167,1,Account Overview,/account/Account-Overview/10441,,,agent18,Account,Account Overview,10441,137
+2024-05-18 08:59:33+00:00,1274233477,6386134092,2,Upgrade Device,/upgrades/Upgrade-Device/10450,,,agent07,Upgrades,Upgrade Device,10450,133
+2024-05-18 08:59:34+00:00,9824465385,4627532412,1,Invoice Details,/billing/Invoice-Details/10086,,,agent08,Billing,Invoice Details,10086,177
+2024-05-18 08:59:34+00:00,1852813736,9796225540,4,Eligibility Check,/upgrades/Eligibility-Check/10161,,,agent13,Upgrades,Eligibility Check,10161,187
+2024-05-18 08:59:34+00:00,9420162434,9605402659,2,Device Compatibility List,/device/Device-Compatibility-List/10329,1,event7,agent13,Device,Device Compatibility List,10329,266
+2024-05-18 08:59:35+00:00,1126218706,2904364703,1,Network Troubleshooting Tips,/network/Network-Troubleshooting-Tips/10053,1,event7,agent19,Network,Network Troubleshooting Tips,10053,160
+2024-05-18 08:59:35+00:00,7595482650,7131262453,4,Eligibility Check,/upgrades/Eligibility-Check/10100,,,agent12,Upgrades,Eligibility Check,10100,220
+2024-05-18 08:59:35+00:00,8782506454,3346221506,1,Device Details,/device/Device-Details/10108,,,agent18,Device,Device Details,10108,124
+2024-05-18 08:59:35+00:00,1646764235,5185233707,4,Network Optimization Settings,/network/Network-Optimization-Settings/10118,,,agent10,Network,Network Optimization Settings,10118,99
+2024-05-18 08:59:35+00:00,8829124612,1375689976,4,Compare Plans,/plans & perks/Compare-Plans/10123,1,event2,agent11,Plans & Perks,Compare Plans,10123,260
+2024-05-18 08:59:35+00:00,6088976199,5924138544,5,Account Closure,/account/Account-Closure/10128,1,event9,agent18,Account,Account Closure,10128,111
+2024-05-18 08:59:35+00:00,9107617792,3964339705,3,Network Diagnostics,/network/Network-Diagnostics/10188,,,agent03,Network,Network Diagnostics,10188,224
+2024-05-18 08:59:35+00:00,5786930268,5955673490,4,Network Usage History,/network/Network-Usage-History/10244,,,agent15,Network,Network Usage History,10244,165
+2024-05-18 08:59:35+00:00,5929462800,3717813755,4,Eligibility Check,/upgrades/Eligibility-Check/10278,1,event9,agent11,Upgrades,Eligibility Check,10278,222
+2024-05-18 08:59:35+00:00,2777245978,7744065600,4,Plan Features,/plans & perks/Plan-Features/10279,,,agent20,Plans & Perks,Plan Features,10279,137
+2024-05-18 08:59:35+00:00,2286794469,5088138692,1,International Roaming Charges,/billing/International-Roaming-Charges/10398,,,agent19,Billing,International Roaming Charges,10398,95
+2024-05-18 08:59:35+00:00,4062914183,8038913081,5,Redeem Perks,/plans & perks/Redeem-Perks/10402,1,event8,agent03,Plans & Perks,Redeem Perks,10402,148
+2024-05-18 08:59:35+00:00,5390438576,8869116463,2,Plan Features,/plans & perks/Plan-Features/10457,,,agent14,Plans & Perks,Plan Features,10457,237
+2024-05-18 08:59:36+00:00,6396818352,2273961303,2,Redeem Perks,/plans & perks/Redeem-Perks/10078,1,event6,agent19,Plans & Perks,Redeem Perks,10078,111
+2024-05-18 08:59:36+00:00,6274733192,8995695419,5,Plan Features,/plans & perks/Plan-Features/10083,1,event10,agent10,Plans & Perks,Plan Features,10083,118
+2024-05-18 08:59:36+00:00,4762282761,7638804532,3,Notification Settings,/account/Notification-Settings/10146,,,agent01,Account,Notification Settings,10146,207
+2024-05-18 08:59:36+00:00,1547565380,7419167771,5,Troubleshooting Guide,/device/Troubleshooting-Guide/10150,,,agent03,Device,Troubleshooting Guide,10150,186
+2024-05-18 08:59:36+00:00,9061868154,6981570324,1,Account Security,/account/Account-Security/10235,,,agent09,Account,Account Security,10235,265
+2024-05-18 08:59:36+00:00,9495449561,5231894744,5,Firmware Update,/device/Firmware-Update/10361,1,event5,agent09,Device,Firmware Update,10361,150
+2024-05-18 08:59:36+00:00,8147970806,2381048185,4,Upgrade Device,/upgrades/Upgrade-Device/10386,1,event8,agent15,Upgrades,Upgrade Device,10386,192
+2024-05-18 08:59:36+00:00,9012311311,6057199252,5,Network Troubleshooting Tips,/network/Network-Troubleshooting-Tips/10400,1,event4,agent03,Network,Network Troubleshooting Tips,10400,158
+2024-05-18 08:59:36+00:00,2487633698,6645812017,5,Dispute Charge,/billing/Dispute-Charge/10411,,,agent04,Billing,Dispute Charge,10411,288
+2024-05-18 08:59:37+00:00,2370686671,4188888055,2,Payment Options,/billing/Payment-Options/10019,,,agent14,Billing,Payment Options,10019,46
+2024-05-18 08:59:37+00:00,9509646725,7878637830,1,Account Security,/account/Account-Security/10028,,,agent05,Account,Account Security,10028,266
+2024-05-18 08:59:37+00:00,5927886723,1109047733,1,Upgrade Device,/upgrades/Upgrade-Device/10092,1,event3,agent10,Upgrades,Upgrade Device,10092,244
+2024-05-18 08:59:37+00:00,6061952850,9114366684,1,Network Usage History,/network/Network-Usage-History/10145,,,agent02,Network,Network Usage History,10145,261
+2024-05-18 08:59:37+00:00,6952111374,6977674447,4,Payment Options,/billing/Payment-Options/10159,,,agent09,Billing,Payment Options,10159,252
+2024-05-18 08:59:37+00:00,3340051742,8369770580,2,Device Details,/device/Device-Details/10213,1,event9,agent05,Device,Device Details,10213,41
+2024-05-18 08:59:37+00:00,6947257035,6636547898,5,Account Security,/account/Account-Security/10245,1,event7,agent14,Account,Account Security,10245,140
+2024-05-18 08:59:37+00:00,5410652100,6642073119,1,Dispute Charge,/billing/Dispute-Charge/10307,1,event5,agent12,Billing,Dispute Charge,10307,249
+2024-05-18 08:59:37+00:00,2696203996,2022839506,1,Customer Dashboard,/billing/Customer-Dashboard/10312,1,event9,agent08,Billing,Customer Dashboard,10312,183
+2024-05-18 08:59:37+00:00,1603956947,7458652095,2,Device Replacement Options,/account/Device-Replacement-Options/10320,,,agent17,Account,Device Replacement Options,10320,111
+2024-05-18 08:59:37+00:00,6663182177,1638520970,1,Update Contact Information,/account/Update-Contact-Information/10390,,,agent11,Account,Update Contact Information,10390,154
+2024-05-18 08:59:37+00:00,6809399748,6515306288,4,Upgrade Plan,/upgrades/Upgrade-Plan/10428,,,agent08,Upgrades,Upgrade Plan,10428,56
+2024-05-18 08:59:38+00:00,6463249670,4357486534,2,Notification Settings,/account/Notification-Settings/10060,,,agent14,Account,Notification Settings,10060,169
+2024-05-18 08:59:38+00:00,3873959562,9613512519,2,Payment History,/billing/Payment-History/10110,1,event3,agent13,Billing,Payment History,10110,103
+2024-05-18 08:59:38+00:00,1134329902,1822860718,4,Redeem Perks,/plans & perks/Redeem-Perks/10114,,,agent20,Plans & Perks,Redeem Perks,10114,70
+2024-05-18 08:59:38+00:00,9881136191,9634655605,5,International Roaming Charges,/billing/International-Roaming-Charges/10231,1,event3,agent03,Billing,International Roaming Charges,10231,60
+2024-05-18 08:59:38+00:00,1346936952,6299325982,2,Compare Plans,/plans & perks/Compare-Plans/10420,,,agent11,Plans & Perks,Compare Plans,10420,239
+2024-05-18 08:59:38+00:00,6984008577,3085410112,5,Account Security,/account/Account-Security/10423,1,event1,agent16,Account,Account Security,10423,114
+2024-05-18 08:59:38+00:00,4209920269,9116321745,3,Phone Upgrade Options,/device/Phone-Upgrade-Options/10473,,,agent02,Device,Phone Upgrade Options,10473,32
+2024-05-18 08:59:38+00:00,9945037076,1276157691,5,Compare Plans,/plans & perks/Compare-Plans/10481,1,event6,agent10,Plans & Perks,Compare Plans,10481,235
+2024-05-18 08:59:39+00:00,5669244691,3352632430,3,Network Usage History,/network/Network-Usage-History/10003,,,agent14,Network,Network Usage History,10003,122
+2024-05-18 08:59:39+00:00,7511241530,1325782280,3,Billing Details,/billing/Billing-Details/10094,1,event2,agent05,Billing,Billing Details,10094,112
+2024-05-18 08:59:39+00:00,3877848606,2659948602,3,Dispute Charge,/billing/Dispute-Charge/10144,1,event7,agent12,Billing,Dispute Charge,10144,97
+2024-05-18 08:59:39+00:00,5089958469,4260915119,4,Coverage Map,/network/Coverage-Map/10160,1,event2,agent05,Network,Coverage Map,10160,41
+2024-05-18 08:59:39+00:00,5549446922,8441206303,3,Plan Features,/plans & perks/Plan-Features/10208,,,agent17,Plans & Perks,Plan Features,10208,41
+2024-05-18 08:59:39+00:00,1283562955,7301528773,4,Redeem Perks,/plans & perks/Redeem-Perks/10260,,,agent15,Plans & Perks,Redeem Perks,10260,45
+2024-05-18 08:59:39+00:00,9966476909,9621569917,1,Device Replacement Options,/account/Device-Replacement-Options/10270,1,event9,agent13,Account,Device Replacement Options,10270,102
+2024-05-18 08:59:39+00:00,7842153833,8953198834,5,Redeem Perks,/plans & perks/Redeem-Perks/10471,1,event1,agent07,Plans & Perks,Redeem Perks,10471,168
+2024-05-18 08:59:39+00:00,9375346437,9117989489,5,Customer Dashboard,/billing/Customer-Dashboard/10490,1,event6,agent02,Billing,Customer Dashboard,10490,242
+2024-05-18 08:59:39+00:00,7025277879,4061784908,5,Redeem Perks,/plans & perks/Redeem-Perks/10493,,,agent03,Plans & Perks,Redeem Perks,10493,276
+2024-05-18 08:59:40+00:00,3079111374,8861064518,5,Device Usage,/device/Device-Usage/10011,,,agent16,Device,Device Usage,10011,231
+2024-05-18 08:59:40+00:00,3808730741,8234327699,3,Network Optimization Settings,/network/Network-Optimization-Settings/10115,1,event5,agent06,Network,Network Optimization Settings,10115,214
+2024-05-18 08:59:40+00:00,3762964587,7478970073,4,Billing Details,/billing/Billing-Details/10130,1,event5,agent04,Billing,Billing Details,10130,176
+2024-05-18 08:59:40+00:00,9523286228,3106593425,4,Device Reset,/device/Device-Reset/10206,1,event8,agent09,Device,Device Reset,10206,212
+2024-05-18 08:59:40+00:00,9812487393,5742046363,2,Network Usage History,/network/Network-Usage-History/10246,1,event10,agent19,Network,Network Usage History,10246,141
+2024-05-18 08:59:40+00:00,6334073757,6033648340,4,Network Diagnostics,/network/Network-Diagnostics/10385,1,event8,agent08,Network,Network Diagnostics,10385,64
+2024-05-18 08:59:41+00:00,3435121670,7501568818,5,Customer Dashboard,/billing/Customer-Dashboard/10036,1,event1,agent08,Billing,Customer Dashboard,10036,187
+2024-05-18 08:59:41+00:00,9226658285,2774660458,3,Payment Options,/billing/Payment-Options/10045,,,agent08,Billing,Payment Options,10045,61
+2024-05-18 08:59:41+00:00,1333502068,1653507092,3,Device Usage,/device/Device-Usage/10055,,,agent08,Device,Device Usage,10055,272
+2024-05-18 08:59:41+00:00,8079234820,9597698091,4,Upgrade Device,/upgrades/Upgrade-Device/10109,1,event8,agent09,Upgrades,Upgrade Device,10109,163
+2024-05-18 08:59:41+00:00,9280653784,9022621162,1,Upgrade Plan,/upgrades/Upgrade-Plan/10212,1,event2,agent11,Upgrades,Upgrade Plan,10212,54
+2024-05-18 08:59:41+00:00,6986544900,2803034267,3,Device Compatibility List,/device/Device-Compatibility-List/10214,1,event7,agent19,Device,Device Compatibility List,10214,236
+2024-05-18 08:59:41+00:00,8534298956,5546499614,2,Network Diagnostics,/network/Network-Diagnostics/10351,1,event8,agent17,Network,Network Diagnostics,10351,202
+2024-05-18 08:59:41+00:00,8213917708,3842575365,3,Redeem Perks,/plans & perks/Redeem-Perks/10359,,,agent01,Plans & Perks,Redeem Perks,10359,60
+2024-05-18 08:59:41+00:00,1887260204,7013467277,1,Eligibility Check,/upgrades/Eligibility-Check/10445,1,event9,agent03,Upgrades,Eligibility Check,10445,105
+2024-05-18 08:59:41+00:00,2758005797,9684121770,5,Phone Upgrade Options,/device/Phone-Upgrade-Options/10476,,,agent17,Device,Phone Upgrade Options,10476,196
+2024-05-18 08:59:41+00:00,1524483513,1855493181,5,Account Closure,/account/Account-Closure/10480,,,agent09,Account,Account Closure,10480,152
+2024-05-18 08:59:42+00:00,6911680778,8284702234,4,Phone Upgrade Options,/device/Phone-Upgrade-Options/10056,1,event1,agent19,Device,Phone Upgrade Options,10056,192
+2024-05-18 08:59:42+00:00,5328199694,7367719238,1,Device Compatibility List,/device/Device-Compatibility-List/10119,,,agent08,Device,Device Compatibility List,10119,260
+2024-05-18 08:59:42+00:00,5545021438,7346818722,3,Network Usage History,/network/Network-Usage-History/10134,1,event9,agent10,Network,Network Usage History,10134,224
+2024-05-18 08:59:42+00:00,2664928851,5533972042,3,Payment Options,/billing/Payment-Options/10201,,,agent01,Billing,Payment Options,10201,79
+2024-05-18 08:59:42+00:00,1598728366,1800134570,2,Upgrade Device,/upgrades/Upgrade-Device/10452,,,agent15,Upgrades,Upgrade Device,10452,86
+2024-05-18 08:59:43+00:00,9215023394,7431174713,3,Network Optimization Settings,/network/Network-Optimization-Settings/10075,,,agent16,Network,Network Optimization Settings,10075,65
+2024-05-18 08:59:43+00:00,6725384117,9832213594,2,Troubleshooting Guide,/device/Troubleshooting-Guide/10163,1,event3,agent17,Device,Troubleshooting Guide,10163,114
+2024-05-18 08:59:43+00:00,3871771744,6005854044,3,Invoice Details,/billing/Invoice-Details/10194,1,event1,agent02,Billing,Invoice Details,10194,105
+2024-05-18 08:59:43+00:00,1967874828,9061628186,3,Device Details,/device/Device-Details/10200,1,event8,agent11,Device,Device Details,10200,227
+2024-05-18 08:59:43+00:00,5517091302,7887242755,1,Account Security,/account/Account-Security/10236,,,agent05,Account,Account Security,10236,221
+2024-05-18 08:59:43+00:00,4066478309,5607407766,3,Update Contact Information,/account/Update-Contact-Information/10238,1,event7,agent09,Account,Update Contact Information,10238,215
+2024-05-18 08:59:43+00:00,5553263553,3612100215,1,Account Closure,/account/Account-Closure/10293,1,event5,agent09,Account,Account Closure,10293,59
+2024-05-18 08:59:43+00:00,3184188511,4431385008,5,Network Usage History,/network/Network-Usage-History/10324,,,agent17,Network,Network Usage History,10324,271
+2024-05-18 08:59:43+00:00,3063025331,3688325104,2,Update Contact Information,/account/Update-Contact-Information/10394,1,event2,agent16,Account,Update Contact Information,10394,43
+2024-05-18 08:59:43+00:00,3786849334,1293813670,3,Compare Plans,/plans & perks/Compare-Plans/10429,,,agent10,Plans & Perks,Compare Plans,10429,226
+2024-05-18 08:59:43+00:00,3100810936,7440498933,4,Update Contact Information,/account/Update-Contact-Information/10454,1,event10,agent12,Account,Update Contact Information,10454,266
+2024-05-18 08:59:43+00:00,8827936515,8889581735,1,Firmware Update,/device/Firmware-Update/10468,,,agent09,Device,Firmware Update,10468,51
+2024-05-18 08:59:43+00:00,4450699018,5303504500,4,Invoice Details,/billing/Invoice-Details/10489,1,event2,agent18,Billing,Invoice Details,10489,275
+2024-05-18 08:59:44+00:00,1070853428,2283862406,2,Network Optimization Settings,/network/Network-Optimization-Settings/10006,1,event2,agent09,Network,Network Optimization Settings,10006,114
+2024-05-18 08:59:44+00:00,8806985612,9805903089,1,Upgrade Plan,/upgrades/Upgrade-Plan/10047,1,event2,agent20,Upgrades,Upgrade Plan,10047,193
+2024-05-18 08:59:44+00:00,9323064759,1873239246,2,Network Optimization Settings,/network/Network-Optimization-Settings/10095,,,agent16,Network,Network Optimization Settings,10095,250
+2024-05-18 08:59:44+00:00,6436191037,3817202611,2,Network Diagnostics,/network/Network-Diagnostics/10120,,,agent10,Network,Network Diagnostics,10120,94
+2024-05-18 08:59:44+00:00,5760263889,2023613133,4,Plan Features,/plans & perks/Plan-Features/10137,,,agent04,Plans & Perks,Plan Features,10137,275
+2024-05-18 08:59:44+00:00,2658458596,8358842916,4,Network Troubleshooting Tips,/network/Network-Troubleshooting-Tips/10143,,,agent10,Network,Network Troubleshooting Tips,10143,161
+2024-05-18 08:59:44+00:00,1345913609,6007743027,5,Network Usage History,/network/Network-Usage-History/10167,,,agent02,Network,Network Usage History,10167,57
+2024-05-18 08:59:44+00:00,4820386184,9992596997,4,Redeem Perks,/plans & perks/Redeem-Perks/10182,1,event5,agent09,Plans & Perks,Redeem Perks,10182,272
+2024-05-18 08:59:44+00:00,7096183809,8537943375,2,Customer Dashboard,/billing/Customer-Dashboard/10217,1,event4,agent01,Billing,Customer Dashboard,10217,46
+2024-05-18 08:59:44+00:00,7894421571,9091512633,5,Account Security,/account/Account-Security/10228,,,agent08,Account,Account Security,10228,59
+2024-05-18 08:59:44+00:00,5394984058,6583631992,3,Dispute Charge,/billing/Dispute-Charge/10328,1,event4,agent03,Billing,Dispute Charge,10328,102
+2024-05-18 08:59:44+00:00,3720084216,7098311550,2,Redeem Perks,/plans & perks/Redeem-Perks/10344,,,agent03,Plans & Perks,Redeem Perks,10344,273
+2024-05-18 08:59:44+00:00,9997813378,9692222317,5,Troubleshooting Guide,/device/Troubleshooting-Guide/10358,1,event10,agent05,Device,Troubleshooting Guide,10358,144
+2024-05-18 08:59:44+00:00,6500294842,6121673788,2,Device Reset,/device/Device-Reset/10374,1,event6,agent14,Device,Device Reset,10374,245
+2024-05-18 08:59:44+00:00,7812678091,1660970979,1,Dispute Charge,/billing/Dispute-Charge/10444,,,agent15,Billing,Dispute Charge,10444,241
+2024-05-18 08:59:45+00:00,2496764630,7229840848,2,Network Optimization Settings,/network/Network-Optimization-Settings/10024,1,event7,agent10,Network,Network Optimization Settings,10024,82
+2024-05-18 08:59:45+00:00,7734323042,3533845584,4,Device Replacement Options,/account/Device-Replacement-Options/10031,1,event3,agent20,Account,Device Replacement Options,10031,269
+2024-05-18 08:59:45+00:00,8757342085,5755108313,5,Redeem Perks,/plans & perks/Redeem-Perks/10043,1,event2,agent09,Plans & Perks,Redeem Perks,10043,192
+2024-05-18 08:59:45+00:00,1054324831,1824173284,5,Account Overview,/account/Account-Overview/10052,1,event4,agent07,Account,Account Overview,10052,34
+2024-05-18 08:59:45+00:00,2499074317,9760310767,3,Network Usage History,/network/Network-Usage-History/10097,1,event5,agent16,Network,Network Usage History,10097,255
+2024-05-18 08:59:45+00:00,7946351071,4307748152,1,Eligibility Check,/upgrades/Eligibility-Check/10257,1,event2,agent09,Upgrades,Eligibility Check,10257,70
+2024-05-18 08:59:45+00:00,9837715582,6044270518,2,Device Compatibility List,/device/Device-Compatibility-List/10289,1,event5,agent05,Device,Device Compatibility List,10289,200
+2024-05-18 08:59:45+00:00,7785540523,6266675880,1,Upgrade Device,/upgrades/Upgrade-Device/10421,,,agent20,Upgrades,Upgrade Device,10421,47
+2024-05-18 08:59:45+00:00,4536430760,9181715083,2,Compare Plans,/plans & perks/Compare-Plans/10458,,,agent14,Plans & Perks,Compare Plans,10458,157
+2024-05-18 08:59:45+00:00,8513966451,1590572790,3,Upgrade Plan,/upgrades/Upgrade-Plan/10466,,,agent15,Upgrades,Upgrade Plan,10466,136
+2024-05-18 08:59:45+00:00,3845998666,5966500661,4,Account Closure,/account/Account-Closure/10479,1,event7,agent06,Account,Account Closure,10479,94
+2024-05-18 08:59:45+00:00,1946524316,6441499364,5,Update Contact Information,/account/Update-Contact-Information/10487,,,agent02,Account,Update Contact Information,10487,277
+2024-05-18 08:59:46+00:00,7731982218,6225949281,2,Device Replacement Options,/account/Device-Replacement-Options/10015,1,event3,agent06,Account,Device Replacement Options,10015,271
+2024-05-18 08:59:46+00:00,8124505453,9181233505,4,International Roaming Charges,/billing/International-Roaming-Charges/10080,,,agent16,Billing,International Roaming Charges,10080,34
+2024-05-18 08:59:46+00:00,5138303386,3725823865,5,Redeem Perks,/plans & perks/Redeem-Perks/10084,1,event10,agent04,Plans & Perks,Redeem Perks,10084,210
+2024-05-18 08:59:46+00:00,1259595621,2265645876,1,Upgrade Device,/upgrades/Upgrade-Device/10107,,,agent12,Upgrades,Upgrade Device,10107,276
+2024-05-18 08:59:46+00:00,7877969388,8303625550,4,Compare Plans,/plans & perks/Compare-Plans/10180,1,event4,agent09,Plans & Perks,Compare Plans,10180,241
+2024-05-18 08:59:46+00:00,6639260040,4816419276,5,Eligibility Check,/upgrades/Eligibility-Check/10252,1,event9,agent15,Upgrades,Eligibility Check,10252,191
+2024-05-18 08:59:46+00:00,6676830622,8753019122,1,Upgrade Device,/upgrades/Upgrade-Device/10295,,,agent04,Upgrades,Upgrade Device,10295,292
+2024-05-18 08:59:46+00:00,6189051550,1985866785,1,Device Usage,/device/Device-Usage/10306,1,event7,agent05,Device,Device Usage,10306,54
+2024-05-18 08:59:46+00:00,8262688927,3516118293,3,Firmware Update,/device/Firmware-Update/10387,,,agent10,Device,Firmware Update,10387,102
+2024-05-18 08:59:46+00:00,6492690086,2446856870,1,Troubleshooting Guide,/device/Troubleshooting-Guide/10436,,,agent03,Device,Troubleshooting Guide,10436,299
+2024-05-18 08:59:46+00:00,4309553409,2777554771,1,Compare Plans,/plans & perks/Compare-Plans/10499,,,agent07,Plans & Perks,Compare Plans,10499,32
+2024-05-18 08:59:47+00:00,3553541024,4497440358,5,Dispute Charge,/billing/Dispute-Charge/10264,1,event4,agent19,Billing,Dispute Charge,10264,142
+2024-05-18 08:59:47+00:00,1707321132,7212912010,2,Speed Test Results,/network/Speed-Test-Results/10271,,,agent03,Network,Speed Test Results,10271,164
+2024-05-18 08:59:48+00:00,4524035479,7762069605,2,Upgrade Device,/upgrades/Upgrade-Device/10009,1,event5,agent20,Upgrades,Upgrade Device,10009,272
+2024-05-18 08:59:48+00:00,9632352538,8484133644,4,Eligibility Check,/upgrades/Eligibility-Check/10038,1,event1,agent10,Upgrades,Eligibility Check,10038,299
+2024-05-18 08:59:48+00:00,1217958437,9946513976,3,Payment Options,/billing/Payment-Options/10101,,,agent11,Billing,Payment Options,10101,43
+2024-05-18 08:59:48+00:00,4645435751,2453317210,1,Network Optimization Settings,/network/Network-Optimization-Settings/10142,1,event5,agent14,Network,Network Optimization Settings,10142,241
+2024-05-18 08:59:48+00:00,1790962787,8214969209,3,Eligibility Check,/upgrades/Eligibility-Check/10240,1,event9,agent17,Upgrades,Eligibility Check,10240,202
+2024-05-18 08:59:48+00:00,2931966186,3045894793,1,Upgrade Plan,/upgrades/Upgrade-Plan/10243,1,event3,agent04,Upgrades,Upgrade Plan,10243,64
+2024-05-18 08:59:48+00:00,2118301978,6293598233,4,International Roaming Charges,/billing/International-Roaming-Charges/10265,1,event7,agent04,Billing,International Roaming Charges,10265,115
+2024-05-18 08:59:48+00:00,7702981539,9361861696,3,Firmware Update,/device/Firmware-Update/10407,1,event3,agent02,Device,Firmware Update,10407,223
+2024-05-18 08:59:49+00:00,3630193469,6283359605,4,Customer Dashboard,/billing/Customer-Dashboard/10005,1,event9,agent19,Billing,Customer Dashboard,10005,86
+2024-05-18 08:59:49+00:00,3703706404,2370600229,5,Redeem Perks,/plans & perks/Redeem-Perks/10032,,,agent13,Plans & Perks,Redeem Perks,10032,85
+2024-05-18 08:59:49+00:00,6168110752,3321499969,4,Device Replacement Options,/account/Device-Replacement-Options/10157,,,agent14,Account,Device Replacement Options,10157,111
+2024-05-18 08:59:49+00:00,4593521921,9337705375,1,Account Security,/account/Account-Security/10209,1,event1,agent07,Account,Account Security,10209,43
+2024-05-18 08:59:49+00:00,9214084186,9666079932,3,Redeem Perks,/plans & perks/Redeem-Perks/10247,,,agent04,Plans & Perks,Redeem Perks,10247,164
+2024-05-18 08:59:49+00:00,9033440938,7911883096,3,Device Compatibility List,/device/Device-Compatibility-List/10263,,,agent14,Device,Device Compatibility List,10263,183
+2024-05-18 08:59:49+00:00,2437536660,9314392257,4,Upgrade Device,/upgrades/Upgrade-Device/10323,1,event7,agent02,Upgrades,Upgrade Device,10323,207
+2024-05-18 08:59:49+00:00,6843243406,9046441992,4,Upgrade Plan,/upgrades/Upgrade-Plan/10369,,,agent04,Upgrades,Upgrade Plan,10369,220
+2024-05-18 08:59:50+00:00,9537797354,2233972830,1,Network Diagnostics,/network/Network-Diagnostics/10079,1,event9,agent13,Network,Network Diagnostics,10079,239
+2024-05-18 08:59:50+00:00,2411179159,4457217088,1,Device Details,/device/Device-Details/10102,1,event10,agent19,Device,Device Details,10102,115
+2024-05-18 08:59:50+00:00,1251251552,8333534711,5,Account Closure,/account/Account-Closure/10224,,,agent13,Account,Account Closure,10224,229
+2024-05-18 08:59:50+00:00,9189883391,9748711207,2,Notification Settings,/account/Notification-Settings/10267,1,event4,agent08,Account,Notification Settings,10267,69
+2024-05-18 08:59:50+00:00,4899063427,2392621295,3,Account Security,/account/Account-Security/10274,1,event3,agent08,Account,Account Security,10274,244
+2024-05-18 08:59:50+00:00,9180949195,8645623415,4,Payment Options,/billing/Payment-Options/10305,1,event8,agent13,Billing,Payment Options,10305,138
+2024-05-18 08:59:50+00:00,6043420531,4046857956,1,Device Replacement Options,/account/Device-Replacement-Options/10309,1,event2,agent01,Account,Device Replacement Options,10309,66
+2024-05-18 08:59:50+00:00,5283475698,9243341355,1,Device Compatibility List,/device/Device-Compatibility-List/10404,,,agent16,Device,Device Compatibility List,10404,218
+2024-05-18 08:59:50+00:00,3747806899,8097254601,5,Network Diagnostics,/network/Network-Diagnostics/10467,,,agent12,Network,Network Diagnostics,10467,176
+2024-05-18 08:59:51+00:00,9710308220,5974989723,2,Notification Settings,/account/Notification-Settings/10012,,,agent20,Account,Notification Settings,10012,229
+2024-05-18 08:59:51+00:00,3264972116,3310900960,3,Firmware Update,/device/Firmware-Update/10023,,,agent07,Device,Firmware Update,10023,134
+2024-05-18 08:59:51+00:00,9005925457,5635459748,3,Device Compatibility List,/device/Device-Compatibility-List/10065,1,event5,agent12,Device,Device Compatibility List,10065,273
+2024-05-18 08:59:51+00:00,3977557393,5794569090,4,Firmware Update,/device/Firmware-Update/10147,,,agent19,Device,Firmware Update,10147,229
+2024-05-18 08:59:51+00:00,3374023581,7741028302,5,Eligibility Check,/upgrades/Eligibility-Check/10152,,,agent18,Upgrades,Eligibility Check,10152,239
+2024-05-18 08:59:51+00:00,9235555415,1445494563,3,Network Troubleshooting Tips,/network/Network-Troubleshooting-Tips/10237,,,agent10,Network,Network Troubleshooting Tips,10237,173
+2024-05-18 08:59:51+00:00,3639629300,1804871267,1,Eligibility Check,/upgrades/Eligibility-Check/10424,,,agent13,Upgrades,Eligibility Check,10424,292
+2024-05-18 08:59:51+00:00,4094404496,5863568635,3,Plan Features,/plans & perks/Plan-Features/10446,,,agent06,Plans & Perks,Plan Features,10446,226
+2024-05-18 08:59:51+00:00,5604216017,4609265306,1,Plan Features,/plans & perks/Plan-Features/10494,1,event5,agent06,Plans & Perks,Plan Features,10494,54
+2024-05-18 08:59:52+00:00,1256759824,1531945350,4,Account Overview,/account/Account-Overview/10002,1,event1,agent12,Account,Account Overview,10002,45
+2024-05-18 08:59:52+00:00,4838976987,3191030840,5,Plan Features,/plans & perks/Plan-Features/10027,1,event7,agent02,Plans & Perks,Plan Features,10027,97
+2024-05-18 08:59:52+00:00,5552978956,3535215269,4,Customer Dashboard,/billing/Customer-Dashboard/10171,,,agent05,Billing,Customer Dashboard,10171,265
+2024-05-18 08:59:52+00:00,7306853410,8021235889,3,Upgrade Plan,/upgrades/Upgrade-Plan/10297,1,event2,agent09,Upgrades,Upgrade Plan,10297,130
+2024-05-18 08:59:52+00:00,4020279669,9194539273,2,Network Optimization Settings,/network/Network-Optimization-Settings/10427,,,agent14,Network,Network Optimization Settings,10427,196
+2024-05-18 08:59:53+00:00,4644172257,4961866372,2,Upgrade Device,/upgrades/Upgrade-Device/10007,1,event9,agent14,Upgrades,Upgrade Device,10007,192
+2024-05-18 08:59:53+00:00,5805672574,8448001844,1,Eligibility Check,/upgrades/Eligibility-Check/10129,,,agent09,Upgrades,Eligibility Check,10129,248
+2024-05-18 08:59:53+00:00,9679588532,7021122973,1,Compare Plans,/plans & perks/Compare-Plans/10207,1,event10,agent06,Plans & Perks,Compare Plans,10207,152
+2024-05-18 08:59:53+00:00,8037473769,1926553131,2,Dispute Charge,/billing/Dispute-Charge/10277,1,event4,agent06,Billing,Dispute Charge,10277,53
+2024-05-18 08:59:53+00:00,2921743455,8418423819,4,Account Security,/account/Account-Security/10372,1,event5,agent03,Account,Account Security,10372,248
+2024-05-18 08:59:54+00:00,4382836102,8570073353,4,Update Contact Information,/account/Update-Contact-Information/10034,1,event5,agent15,Account,Update Contact Information,10034,137
+2024-05-18 08:59:54+00:00,9042309028,9019087280,1,Coverage Map,/network/Coverage-Map/10057,1,event1,agent04,Network,Coverage Map,10057,201
+2024-05-18 08:59:54+00:00,7122636163,4413532068,3,Billing Details,/billing/Billing-Details/10088,,,agent13,Billing,Billing Details,10088,170
+2024-05-18 08:59:54+00:00,8819789669,1042552767,4,Network Diagnostics,/network/Network-Diagnostics/10199,1,event5,agent02,Network,Network Diagnostics,10199,114
+2024-05-18 08:59:54+00:00,9506029967,5956736093,5,Device Usage,/device/Device-Usage/10204,,,agent09,Device,Device Usage,10204,262
+2024-05-18 08:59:54+00:00,5093929798,6735373540,3,Notification Settings,/account/Notification-Settings/10221,,,agent11,Account,Notification Settings,10221,179
+2024-05-18 08:59:54+00:00,8342298250,4299340403,4,Device Details,/device/Device-Details/10268,,,agent05,Device,Device Details,10268,196
+2024-05-18 08:59:54+00:00,9810437010,7473051492,5,Network Optimization Settings,/network/Network-Optimization-Settings/10280,,,agent14,Network,Network Optimization Settings,10280,222
+2024-05-18 08:59:54+00:00,3716748590,4757728609,4,Speed Test Results,/network/Speed-Test-Results/10317,1,event5,agent20,Network,Speed Test Results,10317,220
+2024-05-18 08:59:54+00:00,5632410993,9863803482,1,Update Contact Information,/account/Update-Contact-Information/10381,1,event3,agent11,Account,Update Contact Information,10381,232
+2024-05-18 08:59:54+00:00,8067414359,4364271144,2,Eligibility Check,/upgrades/Eligibility-Check/10391,1,event10,agent06,Upgrades,Eligibility Check,10391,259
+2024-05-18 08:59:54+00:00,1541127306,5922415094,3,Billing Details,/billing/Billing-Details/10438,,,agent16,Billing,Billing Details,10438,147
+2024-05-18 08:59:54+00:00,9212242392,7904742542,3,Notification Settings,/account/Notification-Settings/10469,,,agent15,Account,Notification Settings,10469,150
+2024-05-18 08:59:54+00:00,1803446714,6387545718,4,Redeem Perks,/plans & perks/Redeem-Perks/10474,,,agent15,Plans & Perks,Redeem Perks,10474,276
+2024-05-18 08:59:55+00:00,7513356400,4684528149,5,Network Usage History,/network/Network-Usage-History/10049,,,agent11,Network,Network Usage History,10049,170
+2024-05-18 08:59:55+00:00,6990892737,3018751113,1,Redeem Perks,/plans & perks/Redeem-Perks/10093,,,agent06,Plans & Perks,Redeem Perks,10093,90
+2024-05-18 08:59:55+00:00,2373155744,9188468133,3,Notification Settings,/account/Notification-Settings/10096,1,event6,agent17,Account,Notification Settings,10096,284
+2024-05-18 08:59:55+00:00,3767146053,2120452694,1,Device Details,/device/Device-Details/10131,1,event1,agent07,Device,Device Details,10131,134
+2024-05-18 08:59:55+00:00,8625406385,8883132206,4,Plan Features,/plans & perks/Plan-Features/10155,1,event1,agent14,Plans & Perks,Plan Features,10155,179
+2024-05-18 08:59:55+00:00,4576081018,1324759250,2,Troubleshooting Guide,/device/Troubleshooting-Guide/10185,1,event5,agent17,Device,Troubleshooting Guide,10185,182
+2024-05-18 08:59:55+00:00,3575887539,5940591834,5,Payment Options,/billing/Payment-Options/10300,1,event4,agent15,Billing,Payment Options,10300,31
+2024-05-18 08:59:55+00:00,7528410151,1264807183,3,Billing Details,/billing/Billing-Details/10331,,,agent06,Billing,Billing Details,10331,68
+2024-05-18 08:59:55+00:00,7805297927,6593125264,4,Upgrade Plan,/upgrades/Upgrade-Plan/10378,1,event1,agent16,Upgrades,Upgrade Plan,10378,32
+2024-05-18 08:59:55+00:00,5883507908,9752535645,2,Plan Features,/plans & perks/Plan-Features/10439,,,agent18,Plans & Perks,Plan Features,10439,137
+2024-05-18 08:59:55+00:00,1666574760,9164212961,3,Plan Features,/plans & perks/Plan-Features/10456,1,event10,agent01,Plans & Perks,Plan Features,10456,126
+2024-05-18 08:59:55+00:00,8270371660,9975992986,5,Upgrade Device,/upgrades/Upgrade-Device/10495,1,event3,agent02,Upgrades,Upgrade Device,10495,141
+2024-05-18 08:59:55+00:00,4336269185,1656148921,5,Device Reset,/device/Device-Reset/10498,,,agent12,Device,Device Reset,10498,240
+2024-05-18 08:59:56+00:00,1924947112,5426899907,2,Compare Plans,/plans & perks/Compare-Plans/10063,,,agent19,Plans & Perks,Compare Plans,10063,56
+2024-05-18 08:59:56+00:00,4564516392,1502777947,3,International Roaming Charges,/billing/International-Roaming-Charges/10310,,,agent05,Billing,International Roaming Charges,10310,118
+2024-05-18 08:59:56+00:00,3071178819,8243266857,2,Network Usage History,/network/Network-Usage-History/10413,1,event2,agent13,Network,Network Usage History,10413,247
+2024-05-18 08:59:56+00:00,1728200247,1808561079,2,Device Usage,/device/Device-Usage/10425,,,agent01,Device,Device Usage,10425,181
+2024-05-18 08:59:56+00:00,6545409654,6952917889,1,Eligibility Check,/upgrades/Eligibility-Check/10492,,,agent14,Upgrades,Eligibility Check,10492,231
+2024-05-18 08:59:57+00:00,2785580760,2941264905,5,Payment Options,/billing/Payment-Options/10140,,,agent17,Billing,Payment Options,10140,210
+2024-05-18 08:59:57+00:00,2068528499,8149695675,1,Account Overview,/account/Account-Overview/10181,,,agent02,Account,Account Overview,10181,187
+2024-05-18 08:59:57+00:00,8485676507,8635333259,2,Speed Test Results,/network/Speed-Test-Results/10202,1,event10,agent06,Network,Speed Test Results,10202,211
+2024-05-18 08:59:57+00:00,6257267310,5827045231,3,Invoice Details,/billing/Invoice-Details/10318,,,agent08,Billing,Invoice Details,10318,291
+2024-05-18 08:59:57+00:00,3163742157,4802241983,4,Account Overview,/account/Account-Overview/10333,1,event7,agent18,Account,Account Overview,10333,70
+2024-05-18 08:59:57+00:00,6870651330,1615182590,3,Account Security,/account/Account-Security/10355,1,event3,agent03,Account,Account Security,10355,112
+2024-05-18 08:59:57+00:00,1490446065,5533763650,2,Network Usage History,/network/Network-Usage-History/10368,,,agent06,Network,Network Usage History,10368,292
+2024-05-18 08:59:57+00:00,4082621019,6712798687,4,Update Contact Information,/account/Update-Contact-Information/10377,,,agent18,Account,Update Contact Information,10377,123
+2024-05-18 08:59:57+00:00,6054594610,8104510816,2,Upgrade Plan,/upgrades/Upgrade-Plan/10406,1,event9,agent03,Upgrades,Upgrade Plan,10406,84
+2024-05-18 08:59:57+00:00,7928188300,8500248984,2,Firmware Update,/device/Firmware-Update/10426,1,event2,agent17,Device,Firmware Update,10426,99
+2024-05-18 08:59:57+00:00,7927887090,2469322940,1,Upgrade Device,/upgrades/Upgrade-Device/10460,,,agent01,Upgrades,Upgrade Device,10460,147
+2024-05-18 08:59:57+00:00,9746147352,4780904160,1,Billing Details,/billing/Billing-Details/10462,1,event5,agent09,Billing,Billing Details,10462,31
+2024-05-18 08:59:58+00:00,1060996729,3848059845,2,International Roaming Charges,/billing/International-Roaming-Charges/10008,1,event1,agent10,Billing,International Roaming Charges,10008,152
+2024-05-18 08:59:58+00:00,2898011558,4319157298,4,Network Optimization Settings,/network/Network-Optimization-Settings/10072,1,event6,agent12,Network,Network Optimization Settings,10072,202
+2024-05-18 08:59:58+00:00,8590938687,8926127988,2,Network Optimization Settings,/network/Network-Optimization-Settings/10099,1,event4,agent06,Network,Network Optimization Settings,10099,172
+2024-05-18 08:59:58+00:00,7723933489,7463915928,5,Dispute Charge,/billing/Dispute-Charge/10126,,,agent14,Billing,Dispute Charge,10126,195
+2024-05-18 08:59:58+00:00,2351445617,7705996518,3,Plan Features,/plans & perks/Plan-Features/10133,,,agent14,Plans & Perks,Plan Features,10133,123
+2024-05-18 08:59:58+00:00,6915241871,6413046947,3,Upgrade Device,/upgrades/Upgrade-Device/10176,1,event2,agent06,Upgrades,Upgrade Device,10176,99
+2024-05-18 08:59:58+00:00,6281809892,6099223543,2,Redeem Perks,/plans & perks/Redeem-Perks/10189,,,agent05,Plans & Perks,Redeem Perks,10189,157
+2024-05-18 08:59:58+00:00,6032322632,8401028247,2,Network Usage History,/network/Network-Usage-History/10193,,,agent15,Network,Network Usage History,10193,102
+2024-05-18 08:59:58+00:00,6663567283,6528576452,3,Eligibility Check,/upgrades/Eligibility-Check/10205,,,agent05,Upgrades,Eligibility Check,10205,80
+2024-05-18 08:59:58+00:00,9767180868,8797071093,3,Device Compatibility List,/device/Device-Compatibility-List/10262,,,agent18,Device,Device Compatibility List,10262,193
+2024-05-18 08:59:58+00:00,8710126394,3014270653,4,Payment Options,/billing/Payment-Options/10298,,,agent15,Billing,Payment Options,10298,91
+2024-05-18 08:59:58+00:00,3144845266,5159184276,1,Network Diagnostics,/network/Network-Diagnostics/10326,1,event3,agent16,Network,Network Diagnostics,10326,197
+2024-05-18 08:59:58+00:00,2869547475,4729353584,2,Network Troubleshooting Tips,/network/Network-Troubleshooting-Tips/10336,1,event3,agent18,Network,Network Troubleshooting Tips,10336,62
+2024-05-18 08:59:58+00:00,3378407600,5307206110,2,Eligibility Check,/upgrades/Eligibility-Check/10405,,,agent05,Upgrades,Eligibility Check,10405,87
+2024-05-18 08:59:58+00:00,7900779857,7694594033,1,Device Compatibility List,/device/Device-Compatibility-List/10408,,,agent17,Device,Device Compatibility List,10408,169
+2024-05-18 08:59:59+00:00,4871667917,1514531693,3,Upgrade Plan,/upgrades/Upgrade-Plan/10013,1,event9,agent10,Upgrades,Upgrade Plan,10013,143
+2024-05-18 08:59:59+00:00,4005698672,3494370678,4,Network Diagnostics,/network/Network-Diagnostics/10054,1,event5,agent08,Network,Network Diagnostics,10054,155
+2024-05-18 08:59:59+00:00,3578544387,2308163916,1,Network Usage History,/network/Network-Usage-History/10090,,,agent08,Network,Network Usage History,10090,50
+2024-05-18 08:59:59+00:00,4455877154,4684886682,3,Payment Options,/billing/Payment-Options/10103,,,agent15,Billing,Payment Options,10103,80
+2024-05-18 08:59:59+00:00,7228504662,3632267784,1,Troubleshooting Guide,/device/Troubleshooting-Guide/10216,,,agent19,Device,Troubleshooting Guide,10216,85
+2024-05-18 08:59:59+00:00,2766659921,2918271881,1,Compare Plans,/plans & perks/Compare-Plans/10227,,,agent08,Plans & Perks,Compare Plans,10227,150
+2024-05-18 08:59:59+00:00,4703219804,5800580122,2,Notification Settings,/account/Notification-Settings/10296,,,agent14,Account,Notification Settings,10296,272
+2024-05-18 08:59:59+00:00,7753310661,1762395150,1,Phone Upgrade Options,/device/Phone-Upgrade-Options/10410,,,agent06,Device,Phone Upgrade Options,10410,118
+2024-05-18 08:59:59+00:00,8949761958,4175032195,3,Device Reset,/device/Device-Reset/10416,,,agent10,Device,Device Reset,10416,262
+2024-05-18 08:59:59+00:00,4299179602,1201041726,2,Eligibility Check,/upgrades/Eligibility-Check/10475,1,event9,agent01,Upgrades,Eligibility Check,10475,157
