@@ -1,0 +1,27 @@
+Analyze the customer interaction data in the provided JSON. This data is a combination of API logs, website analytics, and call transcripts.
+
+1. **Categorize Customer Issues:**
+    - Examine the `event.api_endpoint` and `page_url` fields to identify the types of issues customers are facing.
+    - Classify issues into broad categories like:
+        * Billing (e.g., payments, invoices, disputes)
+        * Account Management (e.g., profile updates, password resets)
+        * Device (e.g., activation, troubleshooting)
+        * Network (e.g., connectivity, speed tests)
+        * Plans & Perks
+        * Upgrades
+    - Use information from the `transcript` field to provide more specific details about the issues within each category.
+
+2. **Identify Most Common Issues:**
+    - Determine the top 3 most frequently occurring issue types based on the categorization in step 1.
+    - Provide the number of occurrences for each of these top 3 issue types.
+
+3. **Analyze Resolution Time (if possible):**
+    - If the data contains relevant timestamps (e.g., `@timestamp`, `hit_time_gmt`, `call_start_time`, `call_end_time`), attempt to calculate the average time taken to resolve each issue type.
+    - Note any limitations or assumptions you make in this calculation due to data availability.
+
+4. **Identify Additional Trends or Patterns:**
+    - Look for any other interesting trends or patterns in the data that might not fit into the categories above.
+    - Consider:
+        * Are certain agents handling specific types of issues more frequently?
+        * Are there peak times when certain issues are more likely to occur?
+        * Are there any correlations between the API calls/web page visits and the content of the transcripts?
