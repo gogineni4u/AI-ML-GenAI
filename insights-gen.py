@@ -62,8 +62,8 @@ def get_insights_from_gemini(file_path, api_key):
 
 
 # Example Usage (replace with your actual API key and file path)
-api_key = "AIzaSyDMtJU3t2Ss7XaNZOHtpBt4LfiuXX1kBZk"
-file_path = "R:\\Learning\\Python\\Python-WS\\my-python-project\\venv\\merged_insights_data.json"
+api_key = "Enter_Your_GEMINI_PRO_API_KEY"
+file_path = "Path_to_JSON_in_TXT_Format"
 
 insights = get_insights_from_gemini("file_path, api_key")
 print("Insights from Gemini Pro:\n\n", insights)
