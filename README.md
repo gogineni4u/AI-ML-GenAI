@@ -49,10 +49,10 @@ Following are the code files for the above PoC"
 1. **Dataset.py** Main python code for inititing, cleansing and aggregating the Kibana API calls, SiteCatalyst Data and CCAI transcripts.
 2. **insights-gen.py:** The actual promting to Gemini Pro LLM to generate the insights from our aggregated dataset. This leverages Google Gemini API Key (used my personal account for this)
 3. **kibana_agent_data (csv & json):** Generated Kibana API calls data set
-4. **sitecatalyst_agent_data (csv & json): Generated SiteCatalyst dataset based on sample agent interactions
-5. **merged_agent_data (csv & json): Aggregated dataset without CCAI data
-6. **merged_insights_data (csv & json): Aggregated dataset with CCAI data
-7. **text_data_for_llm (Text file): This is just the aggregated data in text format, as LLM's take plain text input for prompting.
+4. **sitecatalyst_agent_data (csv & json):** Generated SiteCatalyst dataset based on sample agent interactions
+5. **merged_agent_data (csv & json):** Aggregated dataset without CCAI data
+6. **merged_insights_data (csv & json):** Aggregated dataset with CCAI data
+7. **text_data_for_llm (Text file):** This is just the aggregated data in text format, as LLM's take plain text input for prompting.
 
 Once Datset.py gets executed all the data sets will be generated.
 Next insights-gen.py should be executed which inturn prompts Gemini Pro LLM via API. The aggregated dataset will be fed via file path.
