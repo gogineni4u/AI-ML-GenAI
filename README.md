@@ -1,5 +1,3 @@
-Absolutely! Here's a GitHub README.md document that you can use, tailored to your project description:
-
 # Call Center Agent Activity Summarization and Insight Generation
 
 This project aims to provide a comprehensive summary of a call center agent's daily activities, leveraging data from multiple sources. By combining insights from SiteCatalyst, Kibana logs, and CCAI call transcripts, we're building a tool that helps analyze and understand agent performance, customer interactions, and operational efficiency.
